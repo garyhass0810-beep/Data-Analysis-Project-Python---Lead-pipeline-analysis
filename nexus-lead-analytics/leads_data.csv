@@ -1,0 +1,601 @@
+lead_id,first_name,last_name,email,company_name,industry,company_size,lead_source,campaign_name,lead_score,status,assigned_rep,created_date,last_activity_date,days_to_first_contact,deal_value,lost_reason
+1,Matthew,Scott,matthew.scott@ultracoresystems.com,UltraCore Systems,Technology,Large (201-1000),Google Ads,GoogQ3_Retargeting,34,Proposal,Emily Rodriguez,08/04/2024,21/04/2024,8,63600,NULL
+2,Susan,Long,susan.long@peakperformanceco.com,PeakPerformance Co,Technology,Medium (51-200),Cold Email,ColdEmail_Vertical_Blast,53,Proposal,James Morrison,11/05/2024,28/06/2024,20,13900,NULL
+3,Emily,Torres,emily.torres@optiflow.com,OptiFlow,Technology,Large (201-1000),Cold Email,ColdEmail_Re_Engagement,74,Qualified,Sarah Chen,07/05/2024,05/06/2024,15,43800,NULL
+4,Emily,Wright,emily.wright@novacrestcapital.com,NovaCrest Capital,Finance,Small (1-50),Referral,Referral_Employee,100,Proposal,James Morrison,22/09/2024,21/12/2024,8,6400,NULL
+5,Benjamin,Sanders,benjamin.sanders@yieldmaxcorp.com,YieldMax Corp,Healthcare,Enterprise (1000+),Cold Email,ColdEmail_Series_A,46,Lost,Emily Rodriguez,05/04/2024,23/04/2024,8,72000,Competitor
+6,Andrew,Butler,andrew.butler@ultracoresystems.com,UltraCore Systems,Finance,Enterprise (1000+),Content Download,Content_Whitepaper_AI,100,Contacted,Marcus Webb,17/11/2024,11/01/2025,22,123000,NULL
+7,Daniel,Cook,daniel.cook@quickscale.com,QuickScale,Finance,Medium (51-200),Content Download,Content_Ebook_Analytics,43,Lost,Olivia Foster,07/02/2024,21/05/2024,33,37000,Budget
+8,Eric,Price,eric.price@truehomeai.com,TrueHome AI,Education,Large (201-1000),Webinar,Webinar_AI_Trends_2025,50,Proposal,Emily Rodriguez,13/02/2024,15/05/2024,36,38400,NULL
+9,Barbara,Gray,barbara.gray@truenorthfinance.com,TrueNorth Finance,Finance,Medium (51-200),Webinar,Webinar_Data_Strategy,34,Won,Olivia Foster,28/03/2024,11/07/2024,30,9600,NULL
+10,Charles,Evans,charles.evans@bluemedicsystems.com,BlueMedic Systems,Real Estate,Large (201-1000),Google Ads,GoogQ3_Retargeting,38,Contacted,Olivia Foster,11/06/2024,18/08/2024,11,54500,NULL
+11,Larry,Jenkins,larry.jenkins@grandscalemfg.com,GrandScale Mfg,Manufacturing,Enterprise (1000+),Cold Email,ColdEmail_Series_A,24,Lost,James Morrison,06/06/2024,20/07/2024,19,102600,No Response
+12,Brandon,Coleman,brandon.coleman@learnpathacademy.com,LearnPath Academy,Healthcare,Large (201-1000),Google Ads,GoogQ2_Product_Launch,49,Contacted,Sarah Chen,14/09/2024,10/12/2024,3,67900,NULL
+13,Patrick,Lewis,patrick.lewis@webforge.com,WebForge,Retail,Small (1-50),Cold Email,ColdEmail_Enterprise_Push,24,Proposal,Emily Rodriguez,11/04/2024,04/07/2024,19,4100,NULL
+14,James,Baker,james.baker@forgeworks.com,ForgeWorks,Finance,Medium (51-200),Google Ads,GoogQ2_Product_Launch,62,Contacted,Emily Rodriguez,10/06/2024,02/07/2024,3,31800,NULL
+15,Karen,Nguyen,karen.nguyen@readyskill.com,ReadySkill,Retail,Enterprise (1000+),LinkedIn Ads,LI_CFO_Suite,58,Proposal,James Morrison,23/07/2024,24/08/2024,4,52500,NULL
+16,Cynthia,Davis,cynthia.davis@alphaedge.com,AlphaEdge,Healthcare,Large (201-1000),Google Ads,GoogQ1_Brand_Awareness,58,Proposal,James Morrison,23/03/2024,29/05/2024,25,88800,NULL
+17,Nathan,Coleman,nathan.coleman@unilearnpro.com,UniLearn Pro,Education,Large (201-1000),LinkedIn Ads,LI_Industry_Vertical,36,Lost,James Morrison,13/01/2024,15/03/2024,1,16900,Budget
+18,Mark,Phillips,mark.phillips@skylinerealty.com,SkylineRealty,Real Estate,Small (1-50),Cold Email,ColdEmail_Re_Engagement,51,Contacted,Sarah Chen,03/07/2024,10/09/2024,8,4200,NULL
+19,Nancy,Gray,nancy.gray@optiflow.com,OptiFlow,Technology,Small (1-50),Google Ads,GoogQ3_Retargeting,37,Proposal,Olivia Foster,28/02/2024,17/03/2024,3,10300,NULL
+20,Sandra,Ramirez,sandra.ramirez@radiantai.com,RadiantAI,Retail,Small (1-50),LinkedIn Ads,LI_Tech_Leaders,61,Contacted,David Park,11/03/2024,06/06/2024,1,6500,NULL
+21,Cynthia,Cooper,cynthia.cooper@agilemart.com,AgileMart,Technology,Large (201-1000),Google Ads,GoogQ3_Retargeting,59,Contacted,David Park,05/10/2024,09/10/2024,4,49100,NULL
+22,Gregory,Smith,gregory.smith@wavepointdigital.com,WavePoint Digital,Healthcare,Medium (51-200),Webinar,Webinar_Cloud_Migration,20,Proposal,Marcus Webb,10/12/2024,14/01/2025,22,16600,NULL
+23,James,Peterson,james.peterson@fusionworks.com,FusionWorks,Retail,Enterprise (1000+),Webinar,Webinar_Data_Strategy,29,Lost,Marcus Webb,12/06/2024,09/08/2024,35,212300,Bad Fit
+24,Patricia,Torres,patricia.torres@urbancart.com,UrbanCart,Technology,Medium (51-200),Organic Search,SEO_Comparison_Articles,44,Qualified,Emily Rodriguez,08/07/2024,10/10/2024,5,20700,NULL
+25,Brian,Cox,brian.cox@smartcampus.com,SmartCampus,Real Estate,Medium (51-200),Organic Search,SEO_Blog_Inbound,61,Lost,Olivia Foster,05/02/2024,24/04/2024,40,21800,Timing
+26,Deborah,Thompson,deborah.thompson@summitone.com,SummitOne,Retail,Large (201-1000),Google Ads,GoogQ2_Product_Launch,68,Qualified,Emily Rodriguez,06/12/2024,18/01/2025,7,52800,NULL
+27,Kimberly,Smith,kimberly.smith@titangrid.com,TitanGrid,Finance,Small (1-50),LinkedIn Ads,LI_CFO_Suite,68,Lost,Emily Rodriguez,04/07/2024,24/09/2024,1,6900,Bad Fit
+28,Mark,Sanchez,mark.sanchez@redrockindustries.com,RedRock Industries,Technology,Small (1-50),Google Ads,GoogQ3_Retargeting,38,Contacted,Olivia Foster,23/02/2024,28/03/2024,28,9300,NULL
+29,Stephanie,Davis,stephanie.davis@voltalabs.com,VoltaLabs,Manufacturing,Medium (51-200),Trade Show,TradeShow_WebSummit,53,Lost,Emily Rodriguez,03/02/2024,02/03/2024,8,65500,Competitor
+30,Ryan,Rodriguez,ryan.rodriguez@terrafirminc.com,TerraFirm Inc,Healthcare,Enterprise (1000+),Webinar,Webinar_Cloud_Migration,35,Contacted,Marcus Webb,10/10/2024,18/12/2024,41,171900,NULL
+31,Patricia,Jenkins,patricia.jenkins@readyskill.com,ReadySkill,Education,Medium (51-200),Trade Show,TradeShow_Dreamforce,50,Proposal,Marcus Webb,03/09/2024,07/11/2024,11,67400,NULL
+32,Lisa,White,lisa.white@proptechsolutions.com,PropTech Solutions,Technology,Medium (51-200),Cold Email,ColdEmail_Vertical_Blast,45,Negotiation,David Park,13/03/2024,10/06/2024,11,4600,NULL
+33,Anthony,Cooper,anthony.cooper@meridianfinancial.com,Meridian Financial,Healthcare,Medium (51-200),Trade Show,TradeShow_Dreamforce,54,Lost,James Morrison,26/08/2024,26/10/2024,6,90900,Competitor
+34,Patrick,Hayes,patrick.hayes@valuechaininc.com,ValueChain Inc,Retail,Small (1-50),Cold Email,ColdEmail_Vertical_Blast,34,Qualified,David Park,21/08/2024,04/11/2024,8,5600,NULL
+35,Margaret,Davis,margaret.davis@digihealthcorp.com,DigiHealth Corp,Technology,Large (201-1000),Google Ads,GoogQ2_Product_Launch,61,Contacted,Olivia Foster,10/10/2024,26/12/2024,15,52700,NULL
+36,Stephen,Moore,stephen.moore@summitone.com,SummitOne,Retail,Medium (51-200),Cold Email,ColdEmail_Vertical_Blast,59,Qualified,Olivia Foster,30/10/2024,24/01/2025,60,12600,NULL
+37,Thomas,Lewis,thomas.lewis@webforge.com,WebForge,Manufacturing,Large (201-1000),Cold Email,ColdEmail_Re_Engagement,29,Won,Sarah Chen,08/03/2024,12/04/2024,8,38500,NULL
+38,Brandon,Brown,brandon.brown@innovatepro.com,InnovatePro,Technology,Small (1-50),Webinar,Webinar_Cloud_Migration,54,Contacted,James Morrison,02/07/2024,26/07/2024,17,10900,NULL
+39,Cynthia,Scott,cynthia.scott@lunarbase.com,LunarBase,Finance,Large (201-1000),LinkedIn Ads,LI_Decision_Makers,41,Lost,James Morrison,26/08/2024,31/10/2024,13,97500,Competitor
+40,Barbara,Evans,barbara.evans@mindbridgeedu.com,MindBridge Edu,Technology,Enterprise (1000+),Referral,Referral_Partner_Program,80,New,Marcus Webb,08/09/2024,08/09/2024,26,154200,NULL
+41,Michelle,Cook,michelle.cook@lunarbase.com,LunarBase,Healthcare,Medium (51-200),Organic Search,SEO_Case_Studies,53,Lost,Emily Rodriguez,19/12/2024,25/02/2025,9,43800,No Response
+42,Patrick,Torres,patrick.torres@smartcampus.com,SmartCampus,Technology,Small (1-50),Google Ads,GoogQ4_Holiday_Push,37,Negotiation,David Park,03/04/2024,07/05/2024,29,4000,NULL
+43,Patricia,Bryant,patricia.bryant@mountainviewlabs.com,MountainView Labs,Technology,Medium (51-200),Trade Show,TradeShow_Dreamforce,39,Qualified,Olivia Foster,26/03/2024,08/06/2024,31,65400,NULL
+44,Jessica,Howard,jessica.howard@mindbridgeedu.com,MindBridge Edu,Technology,Large (201-1000),Organic Search,SEO_Product_Pages,53,Contacted,Marcus Webb,31/12/2024,16/02/2025,31,108700,NULL
+45,Daniel,Sanders,daniel.sanders@elitefab.com,EliteFab,Technology,Small (1-50),Trade Show,TradeShow_WebSummit,76,Qualified,Marcus Webb,25/08/2024,26/09/2024,13,30400,NULL
+46,Timothy,Harris,timothy.harris@kraftline.com,KraftLine,Healthcare,Medium (51-200),Organic Search,SEO_Case_Studies,11,Won,Sarah Chen,13/03/2024,11/04/2024,8,25400,NULL
+47,Ryan,Clark,ryan.clark@mountainviewlabs.com,MountainView Labs,Technology,Large (201-1000),Google Ads,GoogQ3_Retargeting,53,Lost,Olivia Foster,02/05/2024,19/08/2024,35,51500,Budget
+48,Kevin,Bell,kevin.bell@metaforge.com,MetaForge,Healthcare,Medium (51-200),Webinar,Webinar_Security_Best,68,Contacted,Emily Rodriguez,15/04/2024,11/06/2024,27,34700,NULL
+49,Nathan,Griffin,nathan.griffin@skylinerealty.com,SkylineRealty,Education,Medium (51-200),Organic Search,SEO_Comparison_Articles,77,Lost,Olivia Foster,29/08/2024,16/10/2024,16,20200,No Response
+50,Gregory,Harris,gregory.harris@summitone.com,SummitOne,Retail,Small (1-50),Organic Search,SEO_Product_Pages,53,New,Marcus Webb,31/10/2024,31/10/2024,33,11900,NULL
+51,Ronald,Collins,ronald.collins@kraftline.com,KraftLine,Real Estate,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,67,New,James Morrison,01/11/2024,01/11/2024,9,13500,NULL
+52,Benjamin,Wood,benjamin.wood@castlestoneindustries.com,CastleStone Industries,Technology,Medium (51-200),Organic Search,SEO_Comparison_Articles,43,Contacted,David Park,03/06/2024,04/07/2024,22,12500,NULL
+53,Melissa,Johnson,melissa.johnson@shopsmartai.com,ShopSmart AI,Finance,Large (201-1000),Content Download,Content_Template_Pack,90,Contacted,Marcus Webb,07/06/2024,09/09/2024,23,98700,NULL
+54,Sharon,Martinez,sharon.martinez@zenithgroup.com,ZenithGroup,Finance,Medium (51-200),Cold Email,ColdEmail_Series_A,45,Contacted,Emily Rodriguez,17/06/2024,01/08/2024,27,28400,NULL
+55,Eric,Bennett,eric.bennett@teachflow.com,TeachFlow,Technology,Small (1-50),Webinar,Webinar_AI_Trends_2025,51,Lost,James Morrison,23/11/2024,05/01/2025,31,9800,Competitor
+56,Timothy,Russell,timothy.russell@unilearnpro.com,UniLearn Pro,Real Estate,Enterprise (1000+),Webinar,Webinar_Cloud_Migration,53,Qualified,Sarah Chen,20/08/2024,26/10/2024,10,139100,NULL
+57,Karen,Richardson,karen.richardson@unitystack.com,UnityStack,Retail,Medium (51-200),Referral,Referral_Partner_Program,51,New,James Morrison,27/05/2024,27/05/2024,14,14300,NULL
+58,James,Lewis,james.lewis@proptechsolutions.com,PropTech Solutions,Technology,Medium (51-200),Organic Search,SEO_Blog_Inbound,58,Lost,Marcus Webb,06/07/2024,17/10/2024,49,27700,Bad Fit
+59,Alexander,White,alexander.white@nexgendynamics.com,NexGen Dynamics,Technology,Medium (51-200),Google Ads,GoogQ3_Retargeting,68,Qualified,Marcus Webb,15/05/2024,17/08/2024,67,27500,NULL
+60,Charles,Jones,charles.jones@mindbridgeedu.com,MindBridge Edu,Education,Large (201-1000),Referral,Referral_Customer_Advocacy,64,Negotiation,Sarah Chen,26/12/2024,21/01/2025,4,48300,NULL
+61,Michael,Ross,michael.ross@quickscale.com,QuickScale,Technology,Small (1-50),LinkedIn Ads,LI_CFO_Suite,60,Qualified,Marcus Webb,17/09/2024,27/01/2025,43,11900,NULL
+62,Kevin,Stewart,kevin.stewart@mindbridgeedu.com,MindBridge Edu,Retail,Large (201-1000),Cold Email,ColdEmail_Vertical_Blast,46,Proposal,Sarah Chen,24/07/2024,28/10/2024,18,27800,NULL
+63,Ashley,Diaz,ashley.diaz@carepointsolutions.com,CarePoint Solutions,Technology,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,67,Negotiation,James Morrison,10/10/2024,02/02/2025,33,29200,NULL
+64,Scott,Ramirez,scott.ramirez@peerscholar.com,PeerScholar,Healthcare,Medium (51-200),Cold Email,ColdEmail_Series_A,48,Qualified,David Park,21/11/2024,01/02/2025,9,16900,NULL
+65,Charles,Allen,charles.allen@xpressretail.com,Xpress Retail,Technology,Small (1-50),LinkedIn Ads,LI_Industry_Vertical,66,Lost,Marcus Webb,23/10/2024,20/11/2024,9,6600,Competitor
+66,Karen,Cox,karen.cox@quantumleapco.com,QuantumLeap Co,Manufacturing,Large (201-1000),Cold Email,ColdEmail_Enterprise_Push,36,New,Emily Rodriguez,12/01/2024,12/01/2024,7,52600,NULL
+67,Andrew,Johnson,andrew.johnson@ultracoresystems.com,UltraCore Systems,Real Estate,Enterprise (1000+),Cold Email,ColdEmail_Series_A,70,Qualified,Marcus Webb,05/10/2024,29/12/2024,57,119800,NULL
+68,Cynthia,Johnson,cynthia.johnson@proptechsolutions.com,PropTech Solutions,Education,Medium (51-200),Content Download,Content_Ebook_Analytics,69,Lost,Emily Rodriguez,22/06/2024,07/08/2024,7,13700,Bad Fit
+69,Samuel,Torres,samuel.torres@coresync.com,CoreSync,Real Estate,Medium (51-200),Organic Search,SEO_Product_Pages,62,Proposal,James Morrison,19/04/2024,28/06/2024,14,34300,NULL
+70,Justin,Cook,justin.cook@castlestoneindustries.com,CastleStone Industries,Real Estate,Small (1-50),Cold Email,ColdEmail_Enterprise_Push,20,Lost,Marcus Webb,04/03/2024,18/07/2024,63,8500,Bad Fit
+71,Donna,Peterson,donna.peterson@jetstreamanalytics.com,JetStream Analytics,Healthcare,Large (201-1000),Webinar,Webinar_Data_Strategy,13,Qualified,Sarah Chen,27/05/2024,17/08/2024,7,85800,NULL
+72,Eric,Nelson,eric.nelson@firstresponseai.com,FirstResponse AI,Technology,Small (1-50),Organic Search,SEO_Comparison_Articles,41,Proposal,James Morrison,25/10/2024,18/11/2024,16,7600,NULL
+73,Joseph,Bell,joseph.bell@fusionworks.com,FusionWorks,Education,Medium (51-200),Referral,Referral_Employee,27,Negotiation,James Morrison,28/07/2024,18/09/2024,5,13000,NULL
+74,Donna,Brooks,donna.brooks@duramaxmanufacturing.com,DuraMax Manufacturing,Healthcare,Small (1-50),Organic Search,SEO_Case_Studies,22,Negotiation,Sarah Chen,22/02/2024,10/05/2024,8,13500,NULL
+75,Justin,Campbell,justin.campbell@betabridge.com,BetaBridge,Real Estate,Small (1-50),Google Ads,GoogQ4_Holiday_Push,36,Contacted,David Park,27/04/2024,29/07/2024,11,2800,NULL
+76,Cynthia,Thompson,cynthia.thompson@zoneretail.com,ZoneRetail,Education,Medium (51-200),Webinar,Webinar_Cloud_Migration,71,Qualified,Sarah Chen,18/06/2024,08/08/2024,5,20500,NULL
+77,Gary,Howard,gary.howard@fusionworks.com,FusionWorks,Technology,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,37,Lost,David Park,07/03/2024,30/04/2024,14,22500,Budget
+78,Samuel,Stewart,samuel.stewart@xpressretail.com,Xpress Retail,Manufacturing,Small (1-50),Content Download,Content_Whitepaper_AI,52,Qualified,Olivia Foster,12/01/2024,10/03/2024,13,5400,NULL
+79,Barbara,Cook,barbara.cook@xcelrate.com,XcelRate,Retail,Enterprise (1000+),Referral,Referral_Partner_Program,73,Negotiation,Marcus Webb,25/09/2024,22/10/2024,18,136100,NULL
+80,Jason,Stewart,jason.stewart@cloudninesystems.com,CloudNine Systems,Healthcare,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,61,Contacted,Marcus Webb,23/03/2024,12/07/2024,33,102600,NULL
+81,Stephanie,Turner,stephanie.turner@duramaxmanufacturing.com,DuraMax Manufacturing,Healthcare,Small (1-50),Google Ads,GoogQ2_Product_Launch,25,Qualified,James Morrison,11/09/2024,16/11/2024,25,16100,NULL
+82,Carol,Henderson,carol.henderson@kineticai.com,KineticAI,Retail,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,41,Lost,David Park,06/07/2024,18/08/2024,12,5300,Budget
+83,Michael,Wood,michael.wood@webforge.com,WebForge,Technology,Small (1-50),Google Ads,GoogQ4_Holiday_Push,42,Contacted,Olivia Foster,23/08/2024,10/09/2024,12,7500,NULL
+84,Linda,Davis,linda.davis@kraftline.com,KraftLine,Education,Medium (51-200),Organic Search,SEO_Comparison_Articles,35,Lost,James Morrison,01/10/2024,10/10/2024,7,14300,Timing
+85,Michelle,Alexander,michelle.alexander@bluemedicsystems.com,BlueMedic Systems,Education,Medium (51-200),Organic Search,SEO_Comparison_Articles,32,Negotiation,James Morrison,28/06/2024,24/07/2024,22,15900,NULL
+86,Melissa,Brooks,melissa.brooks@deltadrive.com,DeltaDrive,Education,Small (1-50),Referral,Referral_Partner_Program,71,Contacted,Sarah Chen,18/04/2024,21/05/2024,2,3300,NULL
+87,Rebecca,Clark,rebecca.clark@hypernova.com,HyperNova,Healthcare,Enterprise (1000+),LinkedIn Ads,LI_Tech_Leaders,59,Proposal,Marcus Webb,27/07/2024,01/10/2024,51,317600,NULL
+88,Jonathan,Rivera,jonathan.rivera@deltadrive.com,DeltaDrive,Healthcare,Enterprise (1000+),Webinar,Webinar_Cloud_Migration,29,Qualified,Sarah Chen,16/08/2024,14/09/2024,7,135200,NULL
+89,Ronald,Mitchell,ronald.mitchell@healthsync.com,HealthSync,Real Estate,Enterprise (1000+),Google Ads,GoogQ4_Holiday_Push,45,Proposal,Emily Rodriguez,29/04/2024,14/06/2024,16,99400,NULL
+90,Linda,Coleman,linda.coleman@peakperformanceco.com,PeakPerformance Co,Healthcare,Large (201-1000),Trade Show,TradeShow_SaaStr,43,Qualified,Emily Rodriguez,01/08/2024,13/08/2024,1,196700,NULL
+91,Melissa,White,melissa.white@carepointsolutions.com,CarePoint Solutions,Technology,Enterprise (1000+),Content Download,Content_ROI_Calculator,73,New,Marcus Webb,19/09/2024,19/09/2024,44,160900,NULL
+92,Daniel,Moore,daniel.moore@alphaedge.com,AlphaEdge,Manufacturing,Medium (51-200),Trade Show,TradeShow_CES_2025,36,Negotiation,Sarah Chen,26/04/2024,11/06/2024,3,87300,NULL
+93,Deborah,Turner,deborah.turner@fusionworks.com,FusionWorks,Healthcare,Enterprise (1000+),Organic Search,SEO_Product_Pages,51,New,Marcus Webb,01/10/2024,01/10/2024,80,213300,NULL
+94,Gregory,Alexander,gregory.alexander@unitystack.com,UnityStack,Technology,Small (1-50),Content Download,Content_Ebook_Analytics,58,Contacted,Olivia Foster,09/09/2024,01/10/2024,19,8600,NULL
+95,Richard,Ross,richard.ross@ultracoresystems.com,UltraCore Systems,Technology,Small (1-50),LinkedIn Ads,LI_Industry_Vertical,56,Proposal,Sarah Chen,06/06/2024,14/06/2024,7,2000,NULL
+96,Ronald,Ross,ronald.ross@deltadrive.com,DeltaDrive,Finance,Small (1-50),Trade Show,TradeShow_CES_2025,55,Qualified,James Morrison,01/09/2024,10/10/2024,2,29300,NULL
+97,Deborah,Evans,deborah.evans@optiflow.com,OptiFlow,Retail,Large (201-1000),Google Ads,GoogQ3_Retargeting,18,Proposal,Emily Rodriguez,18/06/2024,19/07/2024,6,38500,NULL
+98,Steven,Wood,steven.wood@learnpathacademy.com,LearnPath Academy,Healthcare,Medium (51-200),Organic Search,SEO_Case_Studies,45,Contacted,David Park,07/10/2024,04/12/2024,3,39300,NULL
+99,Steven,Clark,steven.clark@yieldmaxcorp.com,YieldMax Corp,Healthcare,Small (1-50),Cold Email,ColdEmail_Vertical_Blast,57,Contacted,Olivia Foster,16/05/2024,18/06/2024,1,7500,NULL
+100,George,Torres,george.torres@pinnaclefi.com,PinnacleFi,Healthcare,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,5,Lost,Marcus Webb,20/11/2024,11/02/2025,66,33500,No Response
+101,Jonathan,Foster,jonathan.foster@elitecaretech.com,EliteCare Tech,Technology,Medium (51-200),Content Download,Content_ROI_Calculator,36,Won,Sarah Chen,07/12/2024,13/03/2025,15,35600,NULL
+102,Emily,Cooper,emily.cooper@elitecaretech.com,EliteCare Tech,Retail,Small (1-50),Referral,Referral_Employee,50,Contacted,Olivia Foster,01/08/2024,13/09/2024,5,6500,NULL
+103,Ashley,White,ashley.white@ultracoresystems.com,UltraCore Systems,Technology,Medium (51-200),Referral,Referral_Employee,77,Proposal,James Morrison,02/06/2024,12/08/2024,5,21000,NULL
+104,Brandon,Coleman,brandon.coleman@vanguardedge.com,VanguardEdge,Technology,Large (201-1000),Referral,Referral_Employee,61,Contacted,David Park,08/03/2024,15/04/2024,8,66300,NULL
+105,Barbara,Hughes,barbara.hughes@metaforge.com,MetaForge,Retail,Small (1-50),Cold Email,ColdEmail_Series_A,39,Lost,Sarah Chen,31/12/2024,15/03/2025,17,2000,No Response
+106,Elizabeth,Lopez,elizabeth.lopez@bluemedicsystems.com,BlueMedic Systems,Retail,Medium (51-200),Cold Email,ColdEmail_Vertical_Blast,5,Lost,Olivia Foster,04/03/2024,02/05/2024,11,14800,No Response
+107,Justin,Jackson,justin.jackson@echovault.com,EchoVault,Retail,Enterprise (1000+),Webinar,Webinar_Cloud_Migration,46,Proposal,Marcus Webb,14/10/2024,16/02/2025,50,142500,NULL
+108,Nathan,Thompson,nathan.thompson@buildrightcorp.com,BuildRight Corp,Manufacturing,Small (1-50),Referral,Referral_Customer_Advocacy,64,Contacted,Olivia Foster,09/05/2024,22/06/2024,17,8600,NULL
+109,Edward,Phillips,edward.phillips@sterlingfunds.com,SterlingFunds,Technology,Medium (51-200),Organic Search,SEO_Comparison_Articles,39,Lost,James Morrison,07/02/2024,14/03/2024,22,19100,Budget
+110,Donna,Carter,donna.carter@titangrid.com,TitanGrid,Retail,Large (201-1000),Webinar,Webinar_AI_Trends_2025,62,Contacted,Sarah Chen,16/08/2024,28/09/2024,18,42600,NULL
+111,Jacob,Russell,jacob.russell@ionspark.com,IonSpark,Real Estate,Small (1-50),Organic Search,SEO_Comparison_Articles,25,Proposal,James Morrison,12/06/2024,26/07/2024,12,8100,NULL
+112,Dennis,Lee,dennis.lee@yieldpointretail.com,YieldPoint Retail,Manufacturing,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,52,Lost,James Morrison,16/06/2024,18/08/2024,54,22500,No Response
+113,Thomas,Myers,thomas.myers@heavydutysystems.com,HeavyDuty Systems,Real Estate,Medium (51-200),Referral,Referral_Partner_Program,70,Contacted,Emily Rodriguez,25/10/2024,28/12/2024,3,20800,NULL
+114,Ryan,Russell,ryan.russell@realvista.com,RealVista,Retail,Large (201-1000),Content Download,Content_ROI_Calculator,69,Contacted,David Park,16/01/2024,27/03/2024,11,45800,NULL
+115,Steven,Sanders,steven.sanders@agilemart.com,AgileMart,Healthcare,Small (1-50),Content Download,Content_Template_Pack,57,Won,Emily Rodriguez,25/10/2024,07/02/2025,16,5700,NULL
+116,Dorothy,Miller,dorothy.miller@radiantai.com,RadiantAI,Technology,Large (201-1000),Organic Search,SEO_Blog_Inbound,52,Proposal,James Morrison,11/04/2024,30/06/2024,15,44400,NULL
+117,Charles,Martinez,charles.martinez@lighthousesoftware.com,LightHouse Software,Manufacturing,Small (1-50),LinkedIn Ads,LI_Tech_Leaders,33,Qualified,Marcus Webb,24/01/2024,01/03/2024,16,14900,NULL
+118,Scott,Ward,scott.ward@prismtech.com,PrismTech,Technology,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,82,Qualified,David Park,19/05/2024,12/09/2024,45,69600,NULL
+119,Benjamin,Roberts,benjamin.roberts@venturepath.com,VenturePath,Healthcare,Medium (51-200),Organic Search,SEO_Product_Pages,52,Lost,James Morrison,17/11/2024,03/03/2025,40,32000,Budget
+120,Jeffrey,Perez,jeffrey.perez@voltalabs.com,VoltaLabs,Technology,Enterprise (1000+),LinkedIn Ads,LI_Industry_Vertical,83,Contacted,Marcus Webb,29/11/2024,07/02/2025,50,237900,NULL
+121,Daniel,Peterson,daniel.peterson@vanguardedge.com,VanguardEdge,Healthcare,Small (1-50),LinkedIn Ads,LI_Industry_Vertical,62,Proposal,James Morrison,16/07/2024,04/09/2024,30,5200,NULL
+122,Gary,Jackson,gary.jackson@realvista.com,RealVista,Education,Enterprise (1000+),Google Ads,GoogQ2_Product_Launch,62,Contacted,Sarah Chen,07/12/2024,07/02/2025,10,47000,NULL
+123,Patricia,Patterson,patricia.patterson@lunarbase.com,LunarBase,Technology,Small (1-50),Content Download,Content_Template_Pack,37,Negotiation,James Morrison,10/05/2024,09/06/2024,17,9600,NULL
+124,Edward,Evans,edward.evans@coresync.com,CoreSync,Healthcare,Enterprise (1000+),Organic Search,SEO_Case_Studies,57,Negotiation,Marcus Webb,08/08/2024,31/10/2024,59,276800,NULL
+125,Jack,Torres,jack.torres@yieldmaxcorp.com,YieldMax Corp,Manufacturing,Small (1-50),Content Download,Content_Template_Pack,39,Won,Sarah Chen,08/09/2024,09/10/2024,7,2000,NULL
+126,Lisa,Sanchez,lisa.sanchez@voltalabs.com,VoltaLabs,Healthcare,Large (201-1000),Cold Email,ColdEmail_Series_A,37,Qualified,James Morrison,14/04/2024,12/07/2024,15,34500,NULL
+127,Anthony,Jackson,anthony.jackson@firstresponseai.com,FirstResponse AI,Retail,Medium (51-200),Content Download,Content_Whitepaper_AI,68,Contacted,James Morrison,13/06/2024,24/09/2024,15,15300,NULL
+128,Charles,Lopez,charles.lopez@duramaxmanufacturing.com,DuraMax Manufacturing,Technology,Medium (51-200),Google Ads,GoogQ3_Retargeting,33,Qualified,James Morrison,18/03/2024,02/04/2024,2,15100,NULL
+129,Susan,Jackson,susan.jackson@openclass.com,OpenClass,Manufacturing,Small (1-50),Webinar,Webinar_Security_Best,54,Lost,Emily Rodriguez,26/02/2024,02/06/2024,12,7400,No Response
+130,Jennifer,Cook,jennifer.cook@pinnaclefi.com,PinnacleFi,Manufacturing,Medium (51-200),Webinar,Webinar_Cloud_Migration,49,Lost,James Morrison,18/12/2024,10/03/2025,27,35200,No Response
+131,Sandra,Hernandez,sandra.hernandez@metaforge.com,MetaForge,Manufacturing,Small (1-50),Content Download,Content_Ebook_Analytics,69,Proposal,Sarah Chen,01/06/2024,09/06/2024,6,11400,NULL
+132,Frank,Robinson,frank.robinson@ionspark.com,IonSpark,Healthcare,Small (1-50),Organic Search,SEO_Case_Studies,25,Contacted,James Morrison,05/03/2024,11/05/2024,24,13900,NULL
+133,Benjamin,Robinson,benjamin.robinson@shopsmartai.com,ShopSmart AI,Manufacturing,Small (1-50),LinkedIn Ads,LI_Tech_Leaders,47,Proposal,Emily Rodriguez,23/10/2024,09/12/2024,17,5200,NULL
+134,Patrick,Roberts,patrick.roberts@fusionworks.com,FusionWorks,Healthcare,Enterprise (1000+),Organic Search,SEO_Product_Pages,67,Negotiation,Marcus Webb,02/03/2024,30/05/2024,50,299200,NULL
+135,Brian,Jones,brian.jones@readyskill.com,ReadySkill,Real Estate,Enterprise (1000+),LinkedIn Ads,LI_Tech_Leaders,35,Contacted,Marcus Webb,29/09/2024,15/03/2025,80,237000,NULL
+136,Jeffrey,Stewart,jeffrey.stewart@ionspark.com,IonSpark,Retail,Small (1-50),Webinar,Webinar_Data_Strategy,36,Won,Sarah Chen,21/03/2024,02/07/2024,13,7200,NULL
+137,Cynthia,Morgan,cynthia.morgan@unilearnpro.com,UniLearn Pro,Finance,Enterprise (1000+),Trade Show,TradeShow_SaaStr,49,Lost,Marcus Webb,18/08/2024,12/12/2024,36,706800,Competitor
+138,Jessica,Hughes,jessica.hughes@radiantai.com,RadiantAI,Retail,Enterprise (1000+),Cold Email,ColdEmail_Vertical_Blast,22,Lost,Marcus Webb,25/10/2024,11/02/2025,97,73600,No Response
+139,Nathan,White,nathan.white@truehomeai.com,TrueHome AI,Real Estate,Small (1-50),Google Ads,GoogQ2_Product_Launch,32,Contacted,David Park,01/07/2024,21/09/2024,24,6100,NULL
+140,Justin,Green,justin.green@ridgelineassets.com,RidgeLine Assets,Healthcare,Medium (51-200),Referral,Referral_Partner_Program,78,New,Marcus Webb,30/12/2024,30/12/2024,12,29800,NULL
+141,Jason,Turner,jason.turner@meridianfinancial.com,Meridian Financial,Education,Medium (51-200),Webinar,Webinar_AI_Trends_2025,45,Qualified,Sarah Chen,04/04/2024,29/04/2024,18,21500,NULL
+142,Robert,Green,robert.green@truehomeai.com,TrueHome AI,Real Estate,Medium (51-200),Referral,Referral_Customer_Advocacy,57,Qualified,David Park,18/09/2024,27/11/2024,11,10500,NULL
+143,Steven,Bailey,steven.bailey@novacrestcapital.com,NovaCrest Capital,Education,Enterprise (1000+),Content Download,Content_Ebook_Analytics,5,Contacted,David Park,23/03/2024,27/04/2024,8,68000,NULL
+144,Raymond,Henderson,raymond.henderson@ridgelineassets.com,RidgeLine Assets,Finance,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,48,Negotiation,Sarah Chen,13/08/2024,11/11/2024,16,7600,NULL
+145,Gregory,Price,gregory.price@urbannest.com,UrbanNest,Technology,Medium (51-200),Content Download,Content_Template_Pack,61,Contacted,Sarah Chen,09/03/2024,27/03/2024,8,21400,NULL
+146,Dorothy,Diaz,dorothy.diaz@summitone.com,SummitOne,Education,Small (1-50),Cold Email,ColdEmail_Series_A,32,Contacted,Olivia Foster,02/02/2024,16/03/2024,27,3000,NULL
+147,Nicholas,Barnes,nicholas.barnes@prismtech.com,PrismTech,Healthcare,Large (201-1000),Organic Search,SEO_Comparison_Articles,78,Lost,James Morrison,30/03/2024,23/05/2024,9,47200,Timing
+148,Daniel,Hernandez,daniel.hernandez@titangrid.com,TitanGrid,Technology,Small (1-50),Google Ads,GoogQ3_Retargeting,42,Proposal,Marcus Webb,18/03/2024,13/06/2024,35,17100,NULL
+149,Nancy,Patterson,nancy.patterson@yieldmaxcorp.com,YieldMax Corp,Finance,Small (1-50),Content Download,Content_Whitepaper_AI,82,Qualified,David Park,03/01/2024,12/04/2024,18,12900,NULL
+150,Margaret,Martin,margaret.martin@carepointsolutions.com,CarePoint Solutions,Retail,Small (1-50),Trade Show,TradeShow_Dreamforce,50,Lost,Emily Rodriguez,17/01/2024,07/04/2024,16,14800,Budget
+151,Jeffrey,Ward,jeffrey.ward@voltalabs.com,VoltaLabs,Technology,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,26,Qualified,Sarah Chen,30/03/2024,27/05/2024,6,17400,NULL
+152,Sharon,Campbell,sharon.campbell@voltalabs.com,VoltaLabs,Manufacturing,Small (1-50),Organic Search,SEO_Product_Pages,70,Qualified,Emily Rodriguez,07/11/2024,13/01/2025,22,8600,NULL
+153,Lisa,Henderson,lisa.henderson@webforge.com,WebForge,Healthcare,Medium (51-200),Referral,Referral_Partner_Program,28,Proposal,James Morrison,30/07/2024,27/10/2024,6,24100,NULL
+154,Robert,Patterson,robert.patterson@lunarbase.com,LunarBase,Education,Enterprise (1000+),Organic Search,SEO_Blog_Inbound,39,Contacted,Marcus Webb,28/08/2024,18/12/2024,57,135000,NULL
+155,Ryan,Long,ryan.long@kineticai.com,KineticAI,Retail,Medium (51-200),Webinar,Webinar_Data_Strategy,60,Negotiation,Sarah Chen,25/05/2024,23/08/2024,5,4500,NULL
+156,Scott,Green,scott.green@pinnaclefi.com,PinnacleFi,Manufacturing,Enterprise (1000+),Referral,Referral_Employee,72,Won,Marcus Webb,16/02/2024,02/06/2024,23,229100,NULL
+157,Patricia,Hughes,patricia.hughes@oakbridgeinvestments.com,OakBridge Investments,Manufacturing,Enterprise (1000+),Webinar,Webinar_Data_Strategy,51,Negotiation,James Morrison,01/04/2024,31/05/2024,10,152800,NULL
+158,Alexander,Edwards,alexander.edwards@healthsync.com,HealthSync,Finance,Enterprise (1000+),Cold Email,ColdEmail_Enterprise_Push,24,Qualified,Marcus Webb,06/02/2024,13/05/2024,47,228200,NULL
+159,Emily,Williams,emily.williams@yieldmaxcorp.com,YieldMax Corp,Manufacturing,Medium (51-200),Trade Show,TradeShow_SaaStr,32,Lost,Emily Rodriguez,11/08/2024,13/10/2024,1,43900,No Response
+160,Susan,Anderson,susan.anderson@echovault.com,EchoVault,Healthcare,Small (1-50),Webinar,Webinar_AI_Trends_2025,24,Proposal,Sarah Chen,09/09/2024,10/10/2024,6,10200,NULL
+161,Brian,Hill,brian.hill@forgeworks.com,ForgeWorks,Finance,Enterprise (1000+),Organic Search,SEO_Product_Pages,66,New,Marcus Webb,28/01/2024,28/01/2024,35,178200,NULL
+162,Karen,Powell,karen.powell@vanguardedge.com,VanguardEdge,Manufacturing,Small (1-50),Cold Email,ColdEmail_Re_Engagement,42,Lost,Olivia Foster,24/02/2024,02/05/2024,35,6900,Competitor
+163,Patrick,Peterson,patrick.peterson@truenorthfinance.com,TrueNorth Finance,Retail,Large (201-1000),Webinar,Webinar_Data_Strategy,48,Qualified,Sarah Chen,18/03/2024,23/05/2024,13,70900,NULL
+164,Raymond,White,raymond.white@xcelrate.com,XcelRate,Education,Medium (51-200),Webinar,Webinar_Data_Strategy,32,Contacted,David Park,01/04/2024,17/04/2024,6,9500,NULL
+165,Mary,Richardson,mary.richardson@coresync.com,CoreSync,Retail,Medium (51-200),Trade Show,TradeShow_SaaStr,50,Lost,Marcus Webb,19/02/2024,14/05/2024,4,77000,Competitor
+166,Patricia,Clark,patricia.clark@readyskill.com,ReadySkill,Technology,Medium (51-200),Webinar,Webinar_Cloud_Migration,65,Contacted,Olivia Foster,19/11/2024,26/12/2024,33,26500,NULL
+167,Jessica,Simmons,jessica.simmons@shopsmartai.com,ShopSmart AI,Manufacturing,Medium (51-200),Trade Show,TradeShow_WebSummit,33,Qualified,David Park,05/05/2024,15/06/2024,2,40900,NULL
+168,Dennis,Morris,dennis.morris@silverlinecorp.com,SilverLine Corp,Education,Small (1-50),Cold Email,ColdEmail_Re_Engagement,29,Qualified,Marcus Webb,10/03/2024,09/04/2024,1,6000,NULL
+169,John,Myers,john.myers@fusionworks.com,FusionWorks,Manufacturing,Small (1-50),Organic Search,SEO_Blog_Inbound,51,Lost,Olivia Foster,18/07/2024,03/09/2024,33,6200,Competitor
+170,Jonathan,Young,jonathan.young@urbannest.com,UrbanNest,Technology,Small (1-50),Organic Search,SEO_Blog_Inbound,65,Contacted,James Morrison,22/11/2024,10/01/2025,1,12700,NULL
+171,Thomas,Foster,thomas.foster@learnpathacademy.com,LearnPath Academy,Technology,Large (201-1000),LinkedIn Ads,LI_Industry_Vertical,50,Contacted,Marcus Webb,03/12/2024,08/03/2025,43,95100,NULL
+172,Samuel,Cooper,samuel.cooper@ridgelineassets.com,RidgeLine Assets,Manufacturing,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,54,Contacted,Emily Rodriguez,17/04/2024,13/06/2024,1,10500,NULL
+173,Scott,Brown,scott.brown@truehomeai.com,TrueHome AI,Education,Large (201-1000),Cold Email,ColdEmail_Vertical_Blast,47,Proposal,Sarah Chen,20/08/2024,21/11/2024,5,24300,NULL
+174,Carol,Walker,carol.walker@elitecaretech.com,EliteCare Tech,Technology,Enterprise (1000+),Content Download,Content_Whitepaper_AI,82,Negotiation,Marcus Webb,03/08/2024,13/11/2024,55,234100,NULL
+175,Anthony,Lee,anthony.lee@vanguardedge.com,VanguardEdge,Technology,Large (201-1000),Google Ads,GoogQ4_Holiday_Push,34,Won,Sarah Chen,01/09/2024,10/11/2024,13,48500,NULL
+176,Alexander,Flores,alexander.flores@truenorthfinance.com,TrueNorth Finance,Retail,Small (1-50),LinkedIn Ads,LI_Industry_Vertical,56,Lost,James Morrison,12/07/2024,30/09/2024,27,5500,Bad Fit
+177,Mary,Baker,mary.baker@wavepointdigital.com,WavePoint Digital,Education,Small (1-50),Cold Email,ColdEmail_Series_A,44,Lost,James Morrison,10/12/2024,02/03/2025,25,5400,No Response
+178,Linda,Peterson,linda.peterson@questwealth.com,QuestWealth,Healthcare,Medium (51-200),Organic Search,SEO_Product_Pages,61,Lost,Olivia Foster,29/11/2024,28/01/2025,17,30800,Competitor
+179,George,Perez,george.perez@ironcladcorp.com,IronClad Corp,Finance,Enterprise (1000+),Organic Search,SEO_Case_Studies,41,Lost,James Morrison,10/11/2024,24/02/2025,24,162100,Budget
+180,Patricia,Bailey,patricia.bailey@peakperformanceco.com,PeakPerformance Co,Technology,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,49,Qualified,James Morrison,17/01/2024,17/04/2024,1,27800,NULL
+181,Gregory,Jones,gregory.jones@quizmasterai.com,QuizMaster AI,Technology,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,48,Lost,Marcus Webb,17/02/2024,23/02/2024,1,40700,Competitor
+182,Matthew,Nguyen,matthew.nguyen@yieldpointretail.com,YieldPoint Retail,Healthcare,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,25,Won,Emily Rodriguez,17/10/2024,13/12/2024,3,30600,NULL
+183,Christopher,Alexander,christopher.alexander@readyskill.com,ReadySkill,Finance,Large (201-1000),Google Ads,GoogQ2_Product_Launch,62,Contacted,Emily Rodriguez,18/11/2024,27/02/2025,20,46600,NULL
+184,Karen,Price,karen.price@sterlingfunds.com,SterlingFunds,Manufacturing,Medium (51-200),Trade Show,TradeShow_Dreamforce,37,Won,Emily Rodriguez,29/01/2024,08/03/2024,2,104200,NULL
+185,Michael,Wilson,michael.wilson@hypernova.com,HyperNova,Education,Enterprise (1000+),Webinar,Webinar_AI_Trends_2025,57,Contacted,Marcus Webb,28/06/2024,28/09/2024,44,106700,NULL
+186,Timothy,Ross,timothy.ross@dataspherecorp.com,DataSphere Corp,Healthcare,Large (201-1000),Cold Email,ColdEmail_Re_Engagement,67,Negotiation,Emily Rodriguez,03/02/2024,04/04/2024,16,53900,NULL
+187,Justin,Barnes,justin.barnes@vanguardedge.com,VanguardEdge,Manufacturing,Medium (51-200),Cold Email,ColdEmail_Series_A,36,Lost,Emily Rodriguez,13/11/2024,13/12/2024,30,18900,No Response
+188,Dorothy,Adams,dorothy.adams@zenithgroup.com,ZenithGroup,Technology,Small (1-50),LinkedIn Ads,LI_Industry_Vertical,36,New,Sarah Chen,21/06/2024,21/06/2024,5,13700,NULL
+189,Scott,Anderson,scott.anderson@echovault.com,EchoVault,Technology,Small (1-50),Cold Email,ColdEmail_Re_Engagement,49,Qualified,Olivia Foster,27/01/2024,28/03/2024,6,4900,NULL
+190,Robert,Brown,robert.brown@kryptosoft.com,KryptoSoft,Retail,Medium (51-200),Content Download,Content_Template_Pack,18,Proposal,Olivia Foster,14/01/2024,08/04/2024,17,12500,NULL
+191,Sharon,Wilson,sharon.wilson@omnitechsolutions.com,OmniTech Solutions,Healthcare,Large (201-1000),Referral,Referral_Partner_Program,68,Won,Emily Rodriguez,26/12/2024,02/02/2025,7,57000,NULL
+192,Stephen,Williams,stephen.williams@castlestoneindustries.com,CastleStone Industries,Manufacturing,Large (201-1000),Content Download,Content_ROI_Calculator,64,Qualified,Sarah Chen,09/09/2024,12/12/2024,12,50400,NULL
+193,Eric,Bailey,eric.bailey@oakbridgeinvestments.com,OakBridge Investments,Retail,Large (201-1000),Google Ads,GoogQ3_Retargeting,47,Lost,Olivia Foster,19/08/2024,24/09/2024,18,70200,Bad Fit
+194,Justin,James,justin.james@radiantai.com,RadiantAI,Technology,Medium (51-200),Google Ads,GoogQ3_Retargeting,56,Negotiation,Sarah Chen,18/01/2024,31/03/2024,2,20600,NULL
+195,Stephen,Lopez,stephen.lopez@wavepointdigital.com,WavePoint Digital,Healthcare,Small (1-50),Cold Email,ColdEmail_Re_Engagement,30,Qualified,Sarah Chen,19/01/2024,27/04/2024,22,9100,NULL
+196,Timothy,Rodriguez,timothy.rodriguez@firstresponseai.com,FirstResponse AI,Healthcare,Enterprise (1000+),Content Download,Content_Ebook_Analytics,55,Lost,Marcus Webb,06/01/2024,30/03/2024,50,208000,Competitor
+197,Jack,Hernandez,jack.hernandez@yieldmaxcorp.com,YieldMax Corp,Technology,Large (201-1000),Organic Search,SEO_Blog_Inbound,46,Qualified,Sarah Chen,26/09/2024,09/12/2024,7,66800,NULL
+198,Gregory,Brown,gregory.brown@xpressretail.com,Xpress Retail,Manufacturing,Medium (51-200),Content Download,Content_Ebook_Analytics,52,New,Emily Rodriguez,19/05/2024,19/05/2024,9,22300,NULL
+199,Emily,Alexander,emily.alexander@arcadiahealth.com,Arcadia Health,Real Estate,Medium (51-200),Google Ads,GoogQ1_Brand_Awareness,39,Contacted,Olivia Foster,21/08/2024,21/10/2024,20,16500,NULL
+200,Brian,Hill,brian.hill@oakbridgeinvestments.com,OakBridge Investments,Technology,Enterprise (1000+),LinkedIn Ads,LI_Tech_Leaders,63,Proposal,Marcus Webb,18/08/2024,30/12/2024,64,34400,NULL
+201,James,Hughes,james.hughes@realvista.com,RealVista,Technology,Medium (51-200),Webinar,Webinar_Data_Strategy,52,Won,James Morrison,14/07/2024,10/11/2024,30,16700,NULL
+202,Elizabeth,Thomas,elizabeth.thomas@trendlinecommerce.com,TrendLine Commerce,Education,Medium (51-200),Trade Show,TradeShow_WebSummit,24,Qualified,Sarah Chen,19/02/2024,11/03/2024,1,2400,NULL
+203,Gary,Cox,gary.cox@echovault.com,EchoVault,Real Estate,Small (1-50),Cold Email,ColdEmail_Series_A,23,Won,Emily Rodriguez,23/02/2024,22/04/2024,17,5000,NULL
+204,Brian,Henderson,brian.henderson@ultracoresystems.com,UltraCore Systems,Finance,Enterprise (1000+),Webinar,Webinar_Data_Strategy,49,Lost,David Park,21/10/2024,22/12/2024,40,157400,No Response
+205,Brandon,Bell,brandon.bell@duramaxmanufacturing.com,DuraMax Manufacturing,Healthcare,Medium (51-200),Content Download,Content_Whitepaper_AI,54,Lost,Sarah Chen,10/06/2024,05/08/2024,8,24200,No Response
+206,Dorothy,Allen,dorothy.allen@unibanktech.com,UniBank Tech,Retail,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,73,Lost,David Park,31/12/2024,08/02/2025,12,18800,Bad Fit
+207,James,Richardson,james.richardson@elitefab.com,EliteFab,Technology,Large (201-1000),Trade Show,TradeShow_Dreamforce,63,Contacted,Marcus Webb,30/03/2024,23/04/2024,20,201800,NULL
+208,William,Griffin,william.griffin@arcadiahealth.com,Arcadia Health,Finance,Small (1-50),Google Ads,GoogQ2_Product_Launch,29,Lost,Emily Rodriguez,14/08/2024,02/11/2024,5,7400,Budget
+209,Elizabeth,Butler,elizabeth.butler@forgeworks.com,ForgeWorks,Retail,Small (1-50),LinkedIn Ads,LI_CFO_Suite,46,Lost,James Morrison,03/09/2024,02/12/2024,12,3900,Competitor
+210,Edward,Evans,edward.evans@mindbridgeedu.com,MindBridge Edu,Retail,Enterprise (1000+),Organic Search,SEO_Blog_Inbound,58,Contacted,David Park,12/03/2024,19/04/2024,7,104500,NULL
+211,Charles,Howard,charles.howard@learnpathacademy.com,LearnPath Academy,Retail,Small (1-50),Trade Show,TradeShow_SaaStr,31,New,Emily Rodriguez,13/02/2024,13/02/2024,7,33300,NULL
+212,Jessica,Butler,jessica.butler@wavepointdigital.com,WavePoint Digital,Retail,Small (1-50),Webinar,Webinar_Data_Strategy,47,Proposal,Sarah Chen,08/08/2024,02/11/2024,1,3700,NULL
+213,Edward,Peterson,edward.peterson@nextgenacademy.com,NextGen Academy,Manufacturing,Medium (51-200),Trade Show,TradeShow_WebSummit,39,Lost,Olivia Foster,20/07/2024,01/09/2024,11,56800,Bad Fit
+214,Karen,Perez,karen.perez@xyphersolutions.com,Xypher Solutions,Real Estate,Medium (51-200),Google Ads,GoogQ4_Holiday_Push,82,Qualified,David Park,01/11/2024,28/01/2025,4,12300,NULL
+215,Betty,Henderson,betty.henderson@horizonx.com,HorizonX,Technology,Medium (51-200),Google Ads,GoogQ2_Product_Launch,65,Proposal,Marcus Webb,19/01/2024,11/03/2024,47,36300,NULL
+216,Nathan,Perez,nathan.perez@elitecaretech.com,EliteCare Tech,Finance,Medium (51-200),Google Ads,GoogQ2_Product_Launch,32,Proposal,Olivia Foster,21/11/2024,09/12/2024,1,30400,NULL
+217,Kevin,Price,kevin.price@horizonx.com,HorizonX,Retail,Large (201-1000),Trade Show,TradeShow_Dreamforce,66,Won,Emily Rodriguez,05/05/2024,29/05/2024,4,163100,NULL
+218,Dorothy,Jenkins,dorothy.jenkins@bluemedicsystems.com,BlueMedic Systems,Technology,Medium (51-200),Google Ads,GoogQ1_Brand_Awareness,58,Proposal,Olivia Foster,11/01/2024,25/02/2024,14,29700,NULL
+219,Sandra,Barnes,sandra.barnes@cloudninesystems.com,CloudNine Systems,Retail,Large (201-1000),Trade Show,TradeShow_CES_2025,19,Contacted,James Morrison,27/03/2024,08/04/2024,6,182600,NULL
+220,Samuel,Torres,samuel.torres@elitecaretech.com,EliteCare Tech,Finance,Medium (51-200),Organic Search,SEO_Product_Pages,76,Contacted,James Morrison,12/07/2024,14/08/2024,8,36900,NULL
+221,Dennis,Nguyen,dennis.nguyen@proptechsolutions.com,PropTech Solutions,Finance,Small (1-50),Organic Search,SEO_Blog_Inbound,45,Lost,Sarah Chen,01/12/2024,15/12/2024,3,6000,Budget
+222,Michelle,Butler,michelle.butler@unitystack.com,UnityStack,Technology,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,41,Lost,Sarah Chen,14/09/2024,07/10/2024,12,40100,Budget
+223,Sarah,Kelly,sarah.kelly@duramaxmanufacturing.com,DuraMax Manufacturing,Education,Medium (51-200),Cold Email,ColdEmail_Vertical_Blast,52,Lost,Sarah Chen,21/07/2024,26/10/2024,13,15500,Budget
+224,Samuel,Young,samuel.young@zenithgroup.com,ZenithGroup,Retail,Large (201-1000),Google Ads,GoogQ1_Brand_Awareness,32,Lost,Olivia Foster,19/09/2024,22/12/2024,34,35500,Competitor
+225,Nicholas,James,nicholas.james@zenithgroup.com,ZenithGroup,Manufacturing,Small (1-50),LinkedIn Ads,LI_CFO_Suite,66,Contacted,James Morrison,11/11/2024,22/12/2024,33,9200,NULL
+226,Dennis,Peterson,dennis.peterson@xcelrate.com,XcelRate,Healthcare,Medium (51-200),Webinar,Webinar_Cloud_Migration,52,Lost,Emily Rodriguez,31/01/2024,14/05/2024,19,32500,Budget
+227,Jack,Russell,jack.russell@shopsmartai.com,ShopSmart AI,Healthcare,Large (201-1000),Referral,Referral_Partner_Program,78,Contacted,Sarah Chen,05/06/2024,18/06/2024,1,86700,NULL
+228,Dennis,Butler,dennis.butler@carepointsolutions.com,CarePoint Solutions,Technology,Medium (51-200),Webinar,Webinar_AI_Trends_2025,69,Proposal,Emily Rodriguez,11/01/2024,02/02/2024,19,27900,NULL
+229,Lisa,Torres,lisa.torres@truehomeai.com,TrueHome AI,Healthcare,Small (1-50),Organic Search,SEO_Product_Pages,20,Negotiation,James Morrison,30/04/2024,03/06/2024,27,8200,NULL
+230,Nicholas,Coleman,nicholas.coleman@jetstreamanalytics.com,JetStream Analytics,Education,Medium (51-200),Organic Search,SEO_Product_Pages,72,Qualified,David Park,25/08/2024,20/10/2024,14,6500,NULL
+231,Samuel,Hall,samuel.hall@xpressretail.com,Xpress Retail,Finance,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,29,Proposal,Emily Rodriguez,28/06/2024,09/10/2024,32,30000,NULL
+232,Margaret,Sanders,margaret.sanders@kineticai.com,KineticAI,Healthcare,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,58,Lost,Sarah Chen,31/01/2024,28/04/2024,1,24200,Competitor
+233,Mark,Moore,mark.moore@jetstreamanalytics.com,JetStream Analytics,Education,Enterprise (1000+),Content Download,Content_ROI_Calculator,66,Lost,Olivia Foster,07/10/2024,14/12/2024,8,94700,Budget
+234,Jennifer,Clark,jennifer.clark@silverlinecorp.com,SilverLine Corp,Education,Enterprise (1000+),Content Download,Content_Ebook_Analytics,67,Negotiation,Olivia Foster,10/06/2024,25/06/2024,1,59500,NULL
+235,Sharon,Brown,sharon.brown@voltalabs.com,VoltaLabs,Manufacturing,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,59,Proposal,James Morrison,12/03/2024,17/04/2024,13,12600,NULL
+236,Daniel,Garcia,daniel.garcia@xyphersolutions.com,Xypher Solutions,Education,Medium (51-200),Organic Search,SEO_Product_Pages,49,Won,Sarah Chen,17/11/2024,12/12/2024,13,15800,NULL
+237,Dorothy,Lee,dorothy.lee@vanguardedge.com,VanguardEdge,Retail,Small (1-50),Cold Email,ColdEmail_Vertical_Blast,49,Contacted,Olivia Foster,01/08/2024,22/09/2024,9,4600,NULL
+238,Carol,Nguyen,carol.nguyen@intellimed.com,IntelliMed,Real Estate,Small (1-50),Organic Search,SEO_Comparison_Articles,49,Qualified,David Park,16/02/2024,22/04/2024,26,5300,NULL
+239,Dennis,Baker,dennis.baker@oakbridgeinvestments.com,OakBridge Investments,Finance,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,66,Lost,Olivia Foster,13/12/2024,22/01/2025,19,98800,Competitor
+240,Kevin,Wright,kevin.wright@radiantai.com,RadiantAI,Retail,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,60,Negotiation,Sarah Chen,10/12/2024,31/12/2024,3,53900,NULL
+241,Rebecca,Morgan,rebecca.morgan@redrockindustries.com,RedRock Industries,Real Estate,Small (1-50),Cold Email,ColdEmail_Series_A,63,Qualified,David Park,06/03/2024,06/05/2024,32,7100,NULL
+242,Matthew,Roberts,matthew.roberts@smartcampus.com,SmartCampus,Healthcare,Medium (51-200),Google Ads,GoogQ1_Brand_Awareness,61,Qualified,Olivia Foster,16/11/2024,20/12/2024,34,24800,NULL
+243,Timothy,Thompson,timothy.thompson@optiflow.com,OptiFlow,Manufacturing,Enterprise (1000+),Cold Email,ColdEmail_Series_A,41,Contacted,Marcus Webb,07/04/2024,12/07/2024,68,135500,NULL
+244,Timothy,Ward,timothy.ward@jetforge.com,JetForge,Retail,Small (1-50),Content Download,Content_Ebook_Analytics,56,Qualified,David Park,26/02/2024,04/05/2024,32,9000,NULL
+245,Raymond,Martinez,raymond.martinez@xpressretail.com,Xpress Retail,Technology,Medium (51-200),Organic Search,SEO_Case_Studies,50,Contacted,Marcus Webb,24/11/2024,26/12/2024,10,21800,NULL
+246,Benjamin,Lee,benjamin.lee@quickscale.com,QuickScale,Technology,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,40,Qualified,Olivia Foster,01/04/2024,01/05/2024,17,13100,NULL
+247,Ryan,Garcia,ryan.garcia@agilemart.com,AgileMart,Technology,Small (1-50),Cold Email,ColdEmail_Enterprise_Push,47,Qualified,Olivia Foster,30/10/2024,19/02/2025,22,6000,NULL
+248,Larry,Edwards,larry.edwards@elitecaretech.com,EliteCare Tech,Technology,Small (1-50),LinkedIn Ads,LI_Industry_Vertical,38,Proposal,David Park,15/02/2024,13/05/2024,13,9200,NULL
+249,George,Evans,george.evans@xpressretail.com,Xpress Retail,Technology,Medium (51-200),Referral,Referral_Customer_Advocacy,96,Contacted,Olivia Foster,04/12/2024,08/03/2025,6,33500,NULL
+250,Thomas,Hernandez,thomas.hernandez@elitefab.com,EliteFab,Retail,Small (1-50),Cold Email,ColdEmail_Re_Engagement,19,Contacted,Emily Rodriguez,12/01/2024,20/02/2024,14,5600,NULL
+251,Michael,Nguyen,michael.nguyen@ironcladcorp.com,IronClad Corp,Retail,Small (1-50),Referral,Referral_Employee,60,Lost,Sarah Chen,06/12/2024,26/02/2025,2,5800,Bad Fit
+252,Barbara,Collins,barbara.collins@lunarbase.com,LunarBase,Healthcare,Enterprise (1000+),Webinar,Webinar_Data_Strategy,67,Qualified,James Morrison,04/12/2024,04/02/2025,1,148100,NULL
+253,George,Long,george.long@unitystack.com,UnityStack,Technology,Large (201-1000),Content Download,Content_Whitepaper_AI,44,Proposal,Marcus Webb,22/05/2024,03/09/2024,16,125000,NULL
+254,Patricia,Wilson,patricia.wilson@truehomeai.com,TrueHome AI,Finance,Medium (51-200),Google Ads,GoogQ3_Retargeting,48,Proposal,David Park,25/03/2024,13/04/2024,6,22200,NULL
+255,Raymond,Brooks,raymond.brooks@peerscholar.com,PeerScholar,Technology,Small (1-50),Webinar,Webinar_Data_Strategy,77,New,Emily Rodriguez,01/12/2024,01/12/2024,10,6400,NULL
+256,Raymond,Morris,raymond.morris@optiflow.com,OptiFlow,Finance,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,71,New,Olivia Foster,08/02/2024,08/02/2024,1,7000,NULL
+257,Adam,Taylor,adam.taylor@teachflow.com,TeachFlow,Real Estate,Medium (51-200),Webinar,Webinar_Data_Strategy,43,Lost,Emily Rodriguez,02/08/2024,05/11/2024,26,29200,Competitor
+258,Betty,Ward,betty.ward@zoneretail.com,ZoneRetail,Manufacturing,Medium (51-200),Referral,Referral_Employee,75,Qualified,Sarah Chen,06/11/2024,06/12/2024,4,26300,NULL
+259,Michelle,Brown,michelle.brown@carepointsolutions.com,CarePoint Solutions,Healthcare,Large (201-1000),Content Download,Content_Whitepaper_AI,47,Contacted,Sarah Chen,01/04/2024,29/04/2024,5,97900,NULL
+260,Frank,Rodriguez,frank.rodriguez@webforge.com,WebForge,Technology,Small (1-50),Google Ads,GoogQ3_Retargeting,40,Won,James Morrison,25/11/2024,05/03/2025,40,11200,NULL
+261,Kevin,Martinez,kevin.martinez@healthsync.com,HealthSync,Technology,Small (1-50),Referral,Referral_Partner_Program,68,Won,Olivia Foster,05/08/2024,04/10/2024,10,12400,NULL
+262,Michael,Ward,michael.ward@alphaedge.com,AlphaEdge,Healthcare,Medium (51-200),Referral,Referral_Employee,40,Lost,Emily Rodriguez,27/07/2024,23/10/2024,6,32900,Budget
+263,Rebecca,Perry,rebecca.perry@truenorthfinance.com,TrueNorth Finance,Technology,Small (1-50),LinkedIn Ads,LI_Tech_Leaders,67,Qualified,Olivia Foster,30/08/2024,21/11/2024,8,8200,NULL
+264,Stephanie,Johnson,stephanie.johnson@quickscale.com,QuickScale,Technology,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,46,Lost,Emily Rodriguez,11/05/2024,26/06/2024,36,23700,Competitor
+265,Mary,Martin,mary.martin@elitefab.com,EliteFab,Education,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,69,Proposal,Emily Rodriguez,26/12/2024,22/01/2025,13,19400,NULL
+266,Cynthia,Reed,cynthia.reed@quantumleapco.com,QuantumLeap Co,Technology,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,55,Contacted,Emily Rodriguez,16/12/2024,15/01/2025,12,20200,NULL
+267,Robert,Myers,robert.myers@voltalabs.com,VoltaLabs,Real Estate,Small (1-50),LinkedIn Ads,LI_CFO_Suite,52,Negotiation,Sarah Chen,01/10/2024,17/11/2024,9,6300,NULL
+268,Dennis,Moore,dennis.moore@voltalabs.com,VoltaLabs,Technology,Enterprise (1000+),Cold Email,ColdEmail_Enterprise_Push,60,Contacted,Marcus Webb,04/01/2024,08/06/2024,72,232800,NULL
+269,James,Thomas,james.thomas@lighthousesoftware.com,LightHouse Software,Retail,Small (1-50),Content Download,Content_Ebook_Analytics,57,Qualified,Emily Rodriguez,07/09/2024,03/11/2024,17,6600,NULL
+270,Raymond,Taylor,raymond.taylor@dataspherecorp.com,DataSphere Corp,Real Estate,Enterprise (1000+),Google Ads,GoogQ2_Product_Launch,85,Won,Marcus Webb,15/07/2024,28/09/2024,40,165100,NULL
+271,Andrew,Russell,andrew.russell@greencrossdigital.com,GreenCross Digital,Technology,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,48,Proposal,James Morrison,25/11/2024,28/01/2025,25,12400,NULL
+272,Cynthia,Martinez,cynthia.martinez@kraftline.com,KraftLine,Technology,Enterprise (1000+),Cold Email,ColdEmail_Enterprise_Push,50,Qualified,Olivia Foster,15/01/2024,10/04/2024,40,93200,NULL
+273,Gregory,Evans,gregory.evans@fluxpoint.com,FluxPoint,Manufacturing,Medium (51-200),Google Ads,GoogQ3_Retargeting,21,Contacted,Marcus Webb,27/07/2024,14/11/2024,37,30800,NULL
+274,Sandra,Coleman,sandra.coleman@jointventurehealth.com,JointVenture Health,Healthcare,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,72,Lost,Emily Rodriguez,13/10/2024,16/11/2024,3,18400,Bad Fit
+275,William,Diaz,william.diaz@cloudninesystems.com,CloudNine Systems,Education,Small (1-50),Organic Search,SEO_Blog_Inbound,83,Lost,David Park,06/06/2024,11/09/2024,38,4700,No Response
+276,Ronald,Coleman,ronald.coleman@omnitechsolutions.com,OmniTech Solutions,Healthcare,Small (1-50),Organic Search,SEO_Comparison_Articles,40,Lost,David Park,14/07/2024,22/09/2024,1,11600,Budget
+277,Nicholas,Wood,nicholas.wood@quizmasterai.com,QuizMaster AI,Retail,Medium (51-200),Referral,Referral_Employee,58,Proposal,Sarah Chen,03/11/2024,16/11/2024,4,13600,NULL
+278,Sandra,White,sandra.white@terrafirminc.com,TerraFirm Inc,Technology,Enterprise (1000+),Organic Search,SEO_Comparison_Articles,52,Contacted,David Park,28/02/2024,29/05/2024,17,87200,NULL
+279,Dennis,Roberts,dennis.roberts@urbancart.com,UrbanCart,Finance,Enterprise (1000+),Cold Email,ColdEmail_Vertical_Blast,64,Contacted,Marcus Webb,21/05/2024,05/10/2024,68,178600,NULL
+280,Matthew,Thomas,matthew.thomas@learnpathacademy.com,LearnPath Academy,Retail,Enterprise (1000+),Google Ads,GoogQ4_Holiday_Push,43,Lost,Marcus Webb,03/09/2024,06/02/2025,81,148000,No Response
+281,Margaret,Gray,margaret.gray@venturepath.com,VenturePath,Technology,Small (1-50),LinkedIn Ads,LI_Tech_Leaders,27,Contacted,Sarah Chen,04/09/2024,18/09/2024,1,10000,NULL
+282,Frank,Thompson,frank.thompson@questwealth.com,QuestWealth,Technology,Small (1-50),Google Ads,GoogQ2_Product_Launch,63,Contacted,Sarah Chen,05/04/2024,28/06/2024,5,8300,NULL
+283,Michelle,Bell,michelle.bell@nexgendynamics.com,NexGen Dynamics,Technology,Medium (51-200),Google Ads,GoogQ3_Retargeting,49,Lost,Marcus Webb,26/02/2024,18/04/2024,25,31800,Timing
+284,Matthew,Ward,matthew.ward@northstarconsulting.com,NorthStar Consulting,Healthcare,Medium (51-200),Trade Show,TradeShow_WebSummit,33,New,Olivia Foster,18/09/2024,18/09/2024,16,121100,NULL
+285,Lisa,King,lisa.king@digihealthcorp.com,DigiHealth Corp,Finance,Enterprise (1000+),Referral,Referral_Partner_Program,79,Won,Emily Rodriguez,10/03/2024,20/04/2024,2,117300,NULL
+286,Jack,Mitchell,jack.mitchell@betabridge.com,BetaBridge,Technology,Large (201-1000),Google Ads,GoogQ3_Retargeting,37,Lost,Sarah Chen,08/05/2024,24/07/2024,17,63600,Competitor
+287,George,Williams,george.williams@arcadiahealth.com,Arcadia Health,Technology,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,81,Lost,David Park,26/08/2024,06/11/2024,13,10400,No Response
+288,Susan,James,susan.james@optiflow.com,OptiFlow,Education,Large (201-1000),Webinar,Webinar_Security_Best,70,Contacted,Olivia Foster,23/06/2024,22/08/2024,30,35400,NULL
+289,Steven,Carter,steven.carter@elitefab.com,EliteFab,Technology,Medium (51-200),Webinar,Webinar_AI_Trends_2025,42,Contacted,James Morrison,28/04/2024,15/07/2024,18,19100,NULL
+290,Steven,Nelson,steven.nelson@peerscholar.com,PeerScholar,Finance,Enterprise (1000+),LinkedIn Ads,LI_Decision_Makers,25,New,Marcus Webb,06/08/2024,06/08/2024,44,245100,NULL
+291,William,Ross,william.ross@deltadrive.com,DeltaDrive,Retail,Medium (51-200),LinkedIn Ads,LI_Decision_Makers,40,Lost,Sarah Chen,27/08/2024,17/09/2024,15,11800,No Response
+292,Gary,Harris,gary.harris@terrafirminc.com,TerraFirm Inc,Technology,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,78,Contacted,James Morrison,17/09/2024,13/11/2024,1,29500,NULL
+293,George,Nguyen,george.nguyen@nexgendynamics.com,NexGen Dynamics,Healthcare,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,59,Contacted,James Morrison,21/02/2024,26/05/2024,38,10400,NULL
+294,Robert,Walker,robert.walker@lunarbase.com,LunarBase,Finance,Small (1-50),Organic Search,SEO_Blog_Inbound,57,Contacted,Sarah Chen,28/01/2024,24/02/2024,7,11500,NULL
+295,Amanda,Wright,amanda.wright@kryptosoft.com,KryptoSoft,Finance,Large (201-1000),Referral,Referral_Customer_Advocacy,69,Lost,Sarah Chen,09/11/2024,18/12/2024,5,97800,No Response
+296,Thomas,Parker,thomas.parker@greencrossdigital.com,GreenCross Digital,Technology,Small (1-50),Organic Search,SEO_Comparison_Articles,75,Negotiation,Sarah Chen,14/08/2024,17/09/2024,8,8100,NULL
+297,Ashley,Green,ashley.green@duramaxmanufacturing.com,DuraMax Manufacturing,Manufacturing,Large (201-1000),LinkedIn Ads,LI_Industry_Vertical,65,Negotiation,Sarah Chen,04/06/2024,10/07/2024,10,49700,NULL
+298,Nicholas,Hayes,nicholas.hayes@nexgendynamics.com,NexGen Dynamics,Technology,Large (201-1000),Trade Show,TradeShow_SaaStr,72,Lost,Sarah Chen,05/09/2024,08/10/2024,10,194800,Budget
+299,Christopher,Parker,christopher.parker@agilemart.com,AgileMart,Manufacturing,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,63,Qualified,David Park,29/03/2024,27/04/2024,17,39800,NULL
+300,Cynthia,Williams,cynthia.williams@jadelogic.com,JadeLogic,Technology,Large (201-1000),Webinar,Webinar_Security_Best,54,Proposal,Marcus Webb,03/02/2024,25/06/2024,61,87100,NULL
+301,James,Sanders,james.sanders@peerscholar.com,PeerScholar,Finance,Small (1-50),Google Ads,GoogQ2_Product_Launch,73,Qualified,James Morrison,06/11/2024,21/12/2024,38,11200,NULL
+302,Melissa,Howard,melissa.howard@horizonx.com,HorizonX,Finance,Small (1-50),Cold Email,ColdEmail_Series_A,25,Lost,James Morrison,22/07/2024,02/11/2024,28,11600,Budget
+303,Christopher,Allen,christopher.allen@peerscholar.com,PeerScholar,Healthcare,Small (1-50),Webinar,Webinar_Security_Best,34,Negotiation,Sarah Chen,27/03/2024,04/06/2024,13,9200,NULL
+304,Amanda,Price,amanda.price@unitystack.com,UnityStack,Technology,Large (201-1000),Cold Email,ColdEmail_Vertical_Blast,67,Lost,David Park,05/01/2024,01/04/2024,35,68400,No Response
+305,Christopher,Griffin,christopher.griffin@pinnaclefi.com,PinnacleFi,Healthcare,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,50,New,Olivia Foster,16/02/2024,16/02/2024,15,16400,NULL
+306,Christopher,Edwards,christopher.edwards@shopsmartai.com,ShopSmart AI,Technology,Small (1-50),Referral,Referral_Customer_Advocacy,64,Lost,Emily Rodriguez,06/05/2024,15/06/2024,3,5900,Budget
+307,Daniel,Brown,daniel.brown@urbannest.com,UrbanNest,Manufacturing,Small (1-50),Webinar,Webinar_Security_Best,56,Lost,Emily Rodriguez,24/08/2024,28/10/2024,20,8100,Timing
+308,Eric,James,eric.james@summitone.com,SummitOne,Education,Medium (51-200),Trade Show,TradeShow_WebSummit,62,New,Emily Rodriguez,09/07/2024,09/07/2024,3,33900,NULL
+309,Anthony,Scott,anthony.scott@quickscale.com,QuickScale,Education,Large (201-1000),Organic Search,SEO_Case_Studies,76,Lost,James Morrison,14/03/2024,17/06/2024,14,33000,Competitor
+310,Karen,Peterson,karen.peterson@agilemart.com,AgileMart,Technology,Small (1-50),Referral,Referral_Employee,47,Won,Emily Rodriguez,19/05/2024,26/07/2024,7,7200,NULL
+311,Raymond,Walker,raymond.walker@cloudninesystems.com,CloudNine Systems,Healthcare,Large (201-1000),LinkedIn Ads,LI_CFO_Suite,48,Proposal,Emily Rodriguez,29/08/2024,30/10/2024,19,61300,NULL
+312,Raymond,Phillips,raymond.phillips@unilearnpro.com,UniLearn Pro,Finance,Medium (51-200),Trade Show,TradeShow_WebSummit,85,Negotiation,Sarah Chen,28/08/2024,29/10/2024,1,158600,NULL
+313,Matthew,Thomas,matthew.thomas@mindbridgeedu.com,MindBridge Edu,Real Estate,Small (1-50),Cold Email,ColdEmail_Re_Engagement,25,Qualified,Emily Rodriguez,07/02/2024,24/04/2024,23,6500,NULL
+314,Anthony,Adams,anthony.adams@jetstreamanalytics.com,JetStream Analytics,Healthcare,Medium (51-200),LinkedIn Ads,LI_Decision_Makers,42,Qualified,Olivia Foster,19/01/2024,19/04/2024,31,27300,NULL
+315,Lisa,Parker,lisa.parker@xpressretail.com,Xpress Retail,Education,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,49,Qualified,Marcus Webb,17/08/2024,26/09/2024,32,25500,NULL
+316,Ashley,Price,ashley.price@duramaxmanufacturing.com,DuraMax Manufacturing,Retail,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,41,New,Sarah Chen,30/10/2024,30/10/2024,19,14000,NULL
+317,Charles,Miller,charles.miller@fluxpoint.com,FluxPoint,Manufacturing,Enterprise (1000+),Google Ads,GoogQ2_Product_Launch,43,Won,Sarah Chen,24/07/2024,02/10/2024,9,148800,NULL
+318,Jason,Turner,jason.turner@heavydutysystems.com,HeavyDuty Systems,Retail,Large (201-1000),Organic Search,SEO_Blog_Inbound,52,Contacted,Emily Rodriguez,12/06/2024,24/08/2024,16,49600,NULL
+319,Stephanie,Russell,stephanie.russell@nextgenacademy.com,NextGen Academy,Retail,Medium (51-200),Google Ads,GoogQ3_Retargeting,32,Qualified,Sarah Chen,24/03/2024,03/06/2024,5,25500,NULL
+320,Margaret,Green,margaret.green@shopsmartai.com,ShopSmart AI,Technology,Large (201-1000),Google Ads,GoogQ3_Retargeting,46,Contacted,Olivia Foster,29/02/2024,02/05/2024,42,83900,NULL
+321,Barbara,Martinez,barbara.martinez@firstresponseai.com,FirstResponse AI,Technology,Medium (51-200),Cold Email,ColdEmail_Vertical_Blast,17,New,Emily Rodriguez,31/03/2024,31/03/2024,17,9700,NULL
+322,Gary,Flores,gary.flores@openclass.com,OpenClass,Technology,Small (1-50),Content Download,Content_Whitepaper_AI,56,Qualified,Marcus Webb,07/10/2024,13/12/2024,41,9400,NULL
+323,Justin,Lopez,justin.lopez@readyskill.com,ReadySkill,Retail,Small (1-50),Referral,Referral_Customer_Advocacy,83,Contacted,David Park,01/06/2024,28/07/2024,11,6200,NULL
+324,Patrick,Sanchez,patrick.sanchez@learnpathacademy.com,LearnPath Academy,Healthcare,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,55,Qualified,Emily Rodriguez,24/06/2024,27/07/2024,23,12400,NULL
+325,Scott,Gray,scott.gray@ironcladcorp.com,IronClad Corp,Technology,Medium (51-200),Google Ads,GoogQ3_Retargeting,56,Lost,David Park,31/03/2024,13/06/2024,4,15200,No Response
+326,Anthony,White,anthony.white@northstarconsulting.com,NorthStar Consulting,Retail,Enterprise (1000+),Cold Email,ColdEmail_Vertical_Blast,49,Won,Sarah Chen,12/08/2024,30/09/2024,1,64400,NULL
+327,Benjamin,Alexander,benjamin.alexander@alphaedge.com,AlphaEdge,Retail,Large (201-1000),LinkedIn Ads,LI_Industry_Vertical,82,Qualified,Olivia Foster,07/11/2024,07/03/2025,33,49100,NULL
+328,Robert,Russell,robert.russell@truenorthfinance.com,TrueNorth Finance,Real Estate,Medium (51-200),Webinar,Webinar_AI_Trends_2025,21,Lost,James Morrison,14/04/2024,30/05/2024,1,30400,Competitor
+329,Dennis,Barnes,dennis.barnes@lighthousesoftware.com,LightHouse Software,Real Estate,Medium (51-200),Google Ads,GoogQ3_Retargeting,32,Proposal,David Park,19/07/2024,25/08/2024,11,16000,NULL
+330,Sandra,Campbell,sandra.campbell@readyskill.com,ReadySkill,Healthcare,Enterprise (1000+),Google Ads,GoogQ4_Holiday_Push,75,Proposal,David Park,26/06/2024,20/09/2024,24,99300,NULL
+331,Gary,Wilson,gary.wilson@heavydutysystems.com,HeavyDuty Systems,Retail,Medium (51-200),Webinar,Webinar_Security_Best,68,Contacted,James Morrison,01/11/2024,11/02/2025,17,10600,NULL
+332,James,Thomas,james.thomas@xpressretail.com,Xpress Retail,Education,Large (201-1000),Organic Search,SEO_Product_Pages,64,Lost,Emily Rodriguez,20/01/2024,02/02/2024,9,47100,Budget
+333,Charles,Torres,charles.torres@ionspark.com,IonSpark,Retail,Enterprise (1000+),Organic Search,SEO_Comparison_Articles,46,Contacted,Sarah Chen,16/05/2024,31/05/2024,10,111800,NULL
+334,Larry,Simmons,larry.simmons@gammaworks.com,GammaWorks,Retail,Large (201-1000),Google Ads,GoogQ3_Retargeting,56,Lost,David Park,21/07/2024,08/09/2024,2,60000,Bad Fit
+335,Nancy,Powell,nancy.powell@jadelogic.com,JadeLogic,Manufacturing,Enterprise (1000+),Trade Show,TradeShow_CES_2025,51,Lost,Sarah Chen,05/03/2024,05/05/2024,5,502300,Timing
+336,Brian,Gray,brian.gray@xpressretail.com,Xpress Retail,Technology,Small (1-50),Webinar,Webinar_Data_Strategy,46,Lost,Emily Rodriguez,01/02/2024,06/03/2024,16,8600,Budget
+337,Ashley,Watson,ashley.watson@greencrossdigital.com,GreenCross Digital,Manufacturing,Large (201-1000),Google Ads,GoogQ4_Holiday_Push,47,Proposal,David Park,11/05/2024,07/07/2024,15,84900,NULL
+338,Scott,Morgan,scott.morgan@peakperformanceco.com,PeakPerformance Co,Technology,Small (1-50),Webinar,Webinar_Data_Strategy,54,Contacted,David Park,01/11/2024,10/02/2025,44,13200,NULL
+339,Jonathan,Phillips,jonathan.phillips@nexgendynamics.com,NexGen Dynamics,Technology,Medium (51-200),Content Download,Content_ROI_Calculator,50,New,Sarah Chen,25/05/2024,25/05/2024,2,21500,NULL
+340,Patricia,Young,patricia.young@metaforge.com,MetaForge,Retail,Enterprise (1000+),Organic Search,SEO_Blog_Inbound,75,Qualified,Emily Rodriguez,16/07/2024,09/08/2024,5,133400,NULL
+341,Karen,Jackson,karen.jackson@urbancart.com,UrbanCart,Real Estate,Enterprise (1000+),Google Ads,GoogQ4_Holiday_Push,66,Lost,Marcus Webb,19/10/2024,08/03/2025,84,149600,No Response
+342,Barbara,Ward,barbara.ward@openclass.com,OpenClass,Education,Enterprise (1000+),Trade Show,TradeShow_WebSummit,70,Negotiation,Emily Rodriguez,05/01/2024,17/01/2024,5,156200,NULL
+343,Benjamin,Turner,benjamin.turner@xyphersolutions.com,Xypher Solutions,Healthcare,Large (201-1000),LinkedIn Ads,LI_Decision_Makers,71,Lost,Emily Rodriguez,29/07/2024,23/09/2024,5,72600,No Response
+344,Scott,Patterson,scott.patterson@firstresponseai.com,FirstResponse AI,Technology,Small (1-50),Webinar,Webinar_Security_Best,41,Contacted,Emily Rodriguez,16/05/2024,10/08/2024,19,8800,NULL
+345,Laura,Cook,laura.cook@ionspark.com,IonSpark,Technology,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,63,Lost,Olivia Foster,28/03/2024,15/04/2024,13,62100,No Response
+346,Donna,Adams,donna.adams@cloudninesystems.com,CloudNine Systems,Healthcare,Small (1-50),Organic Search,SEO_Comparison_Articles,43,Lost,Sarah Chen,11/12/2024,11/01/2025,3,6700,Competitor
+347,Ronald,James,ronald.james@radiantai.com,RadiantAI,Technology,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,47,Proposal,David Park,15/07/2024,18/09/2024,22,17900,NULL
+348,Robert,Nguyen,robert.nguyen@forgeworks.com,ForgeWorks,Finance,Large (201-1000),Webinar,Webinar_Security_Best,64,Qualified,David Park,02/12/2024,10/02/2025,12,121700,NULL
+349,Nathan,Evans,nathan.evans@greencrossdigital.com,GreenCross Digital,Retail,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,74,Qualified,James Morrison,28/09/2024,15/12/2024,14,19000,NULL
+350,Michelle,Thomas,michelle.thomas@dataspherecorp.com,DataSphere Corp,Technology,Medium (51-200),Webinar,Webinar_Cloud_Migration,39,Qualified,Marcus Webb,10/09/2024,12/12/2024,27,25900,NULL
+351,Donna,Kelly,donna.kelly@alphaedge.com,AlphaEdge,Technology,Medium (51-200),Organic Search,SEO_Blog_Inbound,48,New,Emily Rodriguez,24/01/2024,24/01/2024,20,19100,NULL
+352,Linda,Powell,linda.powell@fusionworks.com,FusionWorks,Finance,Medium (51-200),Trade Show,TradeShow_Dreamforce,47,Qualified,Marcus Webb,26/03/2024,21/05/2024,24,136100,NULL
+353,Timothy,Barnes,timothy.barnes@silverlinecorp.com,SilverLine Corp,Technology,Small (1-50),Webinar,Webinar_Data_Strategy,59,Contacted,Olivia Foster,26/09/2024,02/10/2024,1,4500,NULL
+354,Susan,Griffin,susan.griffin@wavepointdigital.com,WavePoint Digital,Healthcare,Large (201-1000),Google Ads,GoogQ1_Brand_Awareness,77,Contacted,James Morrison,08/04/2024,04/05/2024,1,89100,NULL
+355,Nathan,Ward,nathan.ward@jointventurehealth.com,JointVenture Health,Manufacturing,Large (201-1000),Content Download,Content_Template_Pack,85,Contacted,Emily Rodriguez,07/02/2024,18/04/2024,13,46100,NULL
+356,Ronald,Morris,ronald.morris@silverlinecorp.com,SilverLine Corp,Technology,Small (1-50),LinkedIn Ads,LI_Decision_Makers,39,Lost,Sarah Chen,14/07/2024,24/10/2024,15,10600,No Response
+357,Timothy,Murphy,timothy.murphy@jetstreamanalytics.com,JetStream Analytics,Technology,Medium (51-200),Referral,Referral_Partner_Program,54,Proposal,Emily Rodriguez,01/01/2024,02/02/2024,5,11900,NULL
+358,Paul,Russell,paul.russell@forgeworks.com,ForgeWorks,Finance,Small (1-50),Organic Search,SEO_Product_Pages,36,Qualified,David Park,21/07/2024,14/09/2024,15,9500,NULL
+359,Nancy,Evans,nancy.evans@mindbridgeedu.com,MindBridge Edu,Retail,Large (201-1000),Organic Search,SEO_Blog_Inbound,82,Contacted,Sarah Chen,02/12/2024,23/12/2024,2,37800,NULL
+360,Steven,Richardson,steven.richardson@ridgelineassets.com,RidgeLine Assets,Healthcare,Small (1-50),Organic Search,SEO_Product_Pages,21,New,Marcus Webb,20/05/2024,20/05/2024,50,17900,NULL
+361,Steven,Anderson,steven.anderson@mountainviewlabs.com,MountainView Labs,Manufacturing,Small (1-50),Webinar,Webinar_Data_Strategy,49,Negotiation,Emily Rodriguez,22/04/2024,28/05/2024,12,10500,NULL
+362,Jessica,Smith,jessica.smith@yieldmaxcorp.com,YieldMax Corp,Retail,Small (1-50),Cold Email,ColdEmail_Series_A,38,Won,David Park,29/02/2024,27/05/2024,30,6300,NULL
+363,James,Adams,james.adams@radiantai.com,RadiantAI,Manufacturing,Small (1-50),Referral,Referral_Employee,43,Negotiation,Marcus Webb,06/06/2024,02/08/2024,17,21600,NULL
+364,Cynthia,Campbell,cynthia.campbell@echovault.com,EchoVault,Retail,Medium (51-200),Google Ads,GoogQ3_Retargeting,40,Contacted,David Park,29/04/2024,28/06/2024,11,14900,NULL
+365,Emily,Harris,emily.harris@smartcampus.com,SmartCampus,Real Estate,Medium (51-200),Google Ads,GoogQ4_Holiday_Push,53,Qualified,James Morrison,11/08/2024,11/11/2024,35,25700,NULL
+366,Melissa,Roberts,melissa.roberts@quizmasterai.com,QuizMaster AI,Finance,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,46,Qualified,David Park,22/09/2024,28/12/2024,23,22000,NULL
+367,George,Hall,george.hall@quantumleapco.com,QuantumLeap Co,Healthcare,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,49,Lost,Olivia Foster,23/12/2024,18/01/2025,12,30100,No Response
+368,Carol,Perez,carol.perez@summitone.com,SummitOne,Retail,Medium (51-200),Trade Show,TradeShow_CES_2025,68,Negotiation,Olivia Foster,24/09/2024,09/12/2024,1,52000,NULL
+369,Matthew,Rivera,matthew.rivera@forgeworks.com,ForgeWorks,Manufacturing,Large (201-1000),Organic Search,SEO_Product_Pages,58,Lost,James Morrison,16/06/2024,14/08/2024,13,61400,Competitor
+370,Laura,Lopez,laura.lopez@sterlingfunds.com,SterlingFunds,Retail,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,59,Qualified,James Morrison,31/01/2024,26/03/2024,30,34000,NULL
+371,Gregory,Butler,gregory.butler@warehouselogic.com,Warehouse Logic,Real Estate,Enterprise (1000+),Webinar,Webinar_Data_Strategy,64,Negotiation,Marcus Webb,19/04/2024,13/07/2024,59,177600,NULL
+372,Jessica,Collins,jessica.collins@ionspark.com,IonSpark,Real Estate,Large (201-1000),Cold Email,ColdEmail_Re_Engagement,50,Qualified,David Park,04/10/2024,03/11/2024,13,21600,NULL
+373,Jeffrey,Davis,jeffrey.davis@realvista.com,RealVista,Finance,Large (201-1000),Google Ads,GoogQ2_Product_Launch,30,Contacted,Emily Rodriguez,25/11/2024,29/11/2024,2,47700,NULL
+374,Adam,Ramirez,adam.ramirez@duramaxmanufacturing.com,DuraMax Manufacturing,Retail,Medium (51-200),Referral,Referral_Partner_Program,46,Won,James Morrison,03/10/2024,17/11/2024,1,2000,NULL
+375,Kimberly,Sanchez,kimberly.sanchez@zenithgroup.com,ZenithGroup,Technology,Small (1-50),Content Download,Content_ROI_Calculator,48,Lost,Emily Rodriguez,07/04/2024,14/07/2024,21,6500,No Response
+376,Raymond,Jenkins,raymond.jenkins@xpressretail.com,Xpress Retail,Retail,Enterprise (1000+),LinkedIn Ads,LI_Industry_Vertical,53,Proposal,Olivia Foster,03/08/2024,26/10/2024,16,100300,NULL
+377,Samuel,Powell,samuel.powell@peakperformanceco.com,PeakPerformance Co,Healthcare,Enterprise (1000+),LinkedIn Ads,LI_Industry_Vertical,74,Contacted,Marcus Webb,03/03/2024,22/06/2024,34,145800,NULL
+378,Richard,Roberts,richard.roberts@healthsync.com,HealthSync,Retail,Medium (51-200),LinkedIn Ads,LI_Decision_Makers,56,Negotiation,Sarah Chen,30/03/2024,06/06/2024,7,27300,NULL
+379,Carol,Robinson,carol.robinson@prismtech.com,PrismTech,Retail,Large (201-1000),Cold Email,ColdEmail_Vertical_Blast,49,Proposal,James Morrison,12/01/2024,04/03/2024,36,46600,NULL
+380,Carol,Myers,carol.myers@questwealth.com,QuestWealth,Technology,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,62,Lost,David Park,25/08/2024,16/10/2024,21,37900,No Response
+381,Robert,Alexander,robert.alexander@pinnaclefi.com,PinnacleFi,Healthcare,Small (1-50),Cold Email,ColdEmail_Series_A,20,Negotiation,David Park,17/09/2024,04/01/2025,19,7600,NULL
+382,Eric,Baker,eric.baker@healthsync.com,HealthSync,Retail,Small (1-50),Trade Show,TradeShow_SaaStr,31,Contacted,Emily Rodriguez,31/03/2024,07/06/2024,11,16400,NULL
+383,Susan,Hall,susan.hall@intellimed.com,IntelliMed,Finance,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,53,Contacted,James Morrison,29/03/2024,16/06/2024,6,37900,NULL
+384,Amanda,Carter,amanda.carter@shopsmartai.com,ShopSmart AI,Retail,Enterprise (1000+),Cold Email,ColdEmail_Enterprise_Push,6,Won,Olivia Foster,27/02/2024,04/06/2024,63,34200,NULL
+385,John,Russell,john.russell@omnitechsolutions.com,OmniTech Solutions,Retail,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,39,Lost,Olivia Foster,11/06/2024,18/07/2024,7,17700,Timing
+386,Rebecca,Richardson,rebecca.richardson@xyphersolutions.com,Xypher Solutions,Technology,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,59,Negotiation,Sarah Chen,23/10/2024,22/11/2024,1,26900,NULL
+387,Christopher,Phillips,christopher.phillips@lighthousesoftware.com,LightHouse Software,Healthcare,Medium (51-200),Content Download,Content_Template_Pack,49,Contacted,Olivia Foster,01/06/2024,02/09/2024,3,36500,NULL
+388,Sarah,Peterson,sarah.peterson@castlestoneindustries.com,CastleStone Industries,Education,Medium (51-200),Organic Search,SEO_Comparison_Articles,80,Lost,Olivia Foster,12/10/2024,27/01/2025,26,11400,Competitor
+389,Margaret,Coleman,margaret.coleman@sterlingfunds.com,SterlingFunds,Retail,Enterprise (1000+),Google Ads,GoogQ1_Brand_Awareness,86,Qualified,Olivia Foster,28/03/2024,03/06/2024,20,81700,NULL
+390,Anthony,Allen,anthony.allen@fusionworks.com,FusionWorks,Healthcare,Large (201-1000),Google Ads,GoogQ3_Retargeting,50,Lost,Olivia Foster,29/11/2024,07/03/2025,48,93600,Budget
+391,Nathan,Allen,nathan.allen@quizmasterai.com,QuizMaster AI,Real Estate,Small (1-50),Webinar,Webinar_Security_Best,78,Lost,Marcus Webb,12/02/2024,01/07/2024,53,7100,No Response
+392,Brian,Parker,brian.parker@retailpulse.com,RetailPulse,Education,Small (1-50),Cold Email,ColdEmail_Vertical_Blast,44,Contacted,Emily Rodriguez,13/07/2024,31/07/2024,10,4200,NULL
+393,Amanda,Harris,amanda.harris@apexsolutions.com,Apex Solutions,Real Estate,Medium (51-200),Organic Search,SEO_Blog_Inbound,71,Qualified,Emily Rodriguez,16/03/2024,10/05/2024,17,17000,NULL
+394,Jason,Scott,jason.scott@teachflow.com,TeachFlow,Technology,Large (201-1000),Trade Show,TradeShow_CES_2025,77,New,James Morrison,28/01/2024,28/01/2024,20,123600,NULL
+395,Anthony,Myers,anthony.myers@mountainviewlabs.com,MountainView Labs,Technology,Medium (51-200),Google Ads,GoogQ4_Holiday_Push,15,Lost,Marcus Webb,27/03/2024,07/06/2024,27,44800,Bad Fit
+396,Carol,Nelson,carol.nelson@xcelrate.com,XcelRate,Technology,Medium (51-200),Organic Search,SEO_Product_Pages,61,Lost,James Morrison,09/02/2024,07/06/2024,31,24400,Bad Fit
+397,Dorothy,Long,dorothy.long@ionspark.com,IonSpark,Healthcare,Medium (51-200),Content Download,Content_Ebook_Analytics,38,Lost,David Park,29/08/2024,26/12/2024,41,28100,Competitor
+398,James,Simmons,james.simmons@truenorthfinance.com,TrueNorth Finance,Technology,Enterprise (1000+),Content Download,Content_ROI_Calculator,70,Contacted,Olivia Foster,17/12/2024,12/01/2025,7,149100,NULL
+399,Nathan,Coleman,nathan.coleman@lunarbase.com,LunarBase,Manufacturing,Large (201-1000),Trade Show,TradeShow_SaaStr,87,Lost,Olivia Foster,15/09/2024,17/11/2024,24,211900,No Response
+400,Michael,Parker,michael.parker@skylinerealty.com,SkylineRealty,Technology,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,42,Contacted,Olivia Foster,24/09/2024,20/12/2024,16,11000,NULL
+401,Deborah,Garcia,deborah.garcia@carepointsolutions.com,CarePoint Solutions,Finance,Large (201-1000),LinkedIn Ads,LI_CFO_Suite,88,Qualified,Sarah Chen,13/07/2024,04/10/2024,1,66100,NULL
+402,Jennifer,Hayes,jennifer.hayes@xcelrate.com,XcelRate,Technology,Large (201-1000),Webinar,Webinar_Data_Strategy,79,Qualified,David Park,05/08/2024,17/09/2024,24,72300,NULL
+403,Christopher,Jones,christopher.jones@ultracoresystems.com,UltraCore Systems,Healthcare,Enterprise (1000+),Content Download,Content_Whitepaper_AI,46,Proposal,Marcus Webb,26/09/2024,18/12/2024,72,195900,NULL
+404,Michael,Cox,michael.cox@realvista.com,RealVista,Technology,Medium (51-200),Content Download,Content_Whitepaper_AI,96,Contacted,James Morrison,29/01/2024,02/05/2024,38,17800,NULL
+405,George,Taylor,george.taylor@jetforge.com,JetForge,Retail,Enterprise (1000+),Trade Show,TradeShow_CES_2025,35,Won,Marcus Webb,26/11/2024,01/03/2025,43,448400,NULL
+406,Deborah,Clark,deborah.clark@venturepath.com,VenturePath,Technology,Small (1-50),Webinar,Webinar_AI_Trends_2025,53,Lost,Olivia Foster,27/04/2024,05/06/2024,15,9000,Budget
+407,Andrew,Garcia,andrew.garcia@warehouselogic.com,Warehouse Logic,Technology,Medium (51-200),Cold Email,ColdEmail_Series_A,53,Qualified,Sarah Chen,03/06/2024,10/09/2024,13,15000,NULL
+408,Dennis,Thomas,dennis.thomas@trendlinecommerce.com,TrendLine Commerce,Retail,Small (1-50),Webinar,Webinar_AI_Trends_2025,84,Lost,Olivia Foster,08/10/2024,25/12/2024,41,9500,Bad Fit
+409,Stephen,Adams,stephen.adams@redrockindustries.com,RedRock Industries,Manufacturing,Medium (51-200),Webinar,Webinar_AI_Trends_2025,48,Won,Sarah Chen,23/11/2024,08/01/2025,13,23000,NULL
+410,Barbara,Edwards,barbara.edwards@venturepath.com,VenturePath,Healthcare,Small (1-50),LinkedIn Ads,LI_Tech_Leaders,39,New,James Morrison,05/09/2024,05/09/2024,6,12000,NULL
+411,Justin,Morris,justin.morris@questwealth.com,QuestWealth,Technology,Medium (51-200),Cold Email,ColdEmail_Vertical_Blast,30,Lost,James Morrison,22/02/2024,14/06/2024,26,11900,No Response
+412,Sandra,Campbell,sandra.campbell@vanguardedge.com,VanguardEdge,Technology,Small (1-50),Organic Search,SEO_Case_Studies,38,Contacted,Olivia Foster,23/12/2024,01/03/2025,18,6100,NULL
+413,Emily,Jones,emily.jones@terrafirminc.com,TerraFirm Inc,Manufacturing,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,55,Qualified,David Park,05/04/2024,05/06/2024,14,2000,NULL
+414,Michelle,Butler,michelle.butler@buildrightcorp.com,BuildRight Corp,Technology,Small (1-50),Google Ads,GoogQ3_Retargeting,78,Contacted,Marcus Webb,04/04/2024,29/07/2024,32,9200,NULL
+415,Linda,Kelly,linda.kelly@digihealthcorp.com,DigiHealth Corp,Education,Large (201-1000),LinkedIn Ads,LI_Decision_Makers,34,Lost,David Park,26/03/2024,14/06/2024,16,35700,Timing
+416,Michael,Roberts,michael.roberts@unitystack.com,UnityStack,Technology,Enterprise (1000+),Trade Show,TradeShow_Dreamforce,67,Qualified,Marcus Webb,04/03/2024,06/05/2024,26,695600,NULL
+417,Sandra,Kelly,sandra.kelly@peakperformanceco.com,PeakPerformance Co,Manufacturing,Large (201-1000),LinkedIn Ads,LI_Industry_Vertical,61,Lost,Olivia Foster,07/07/2024,04/10/2024,18,56500,No Response
+418,Raymond,Adams,raymond.adams@prismtech.com,PrismTech,Technology,Small (1-50),Trade Show,TradeShow_Dreamforce,59,Contacted,Sarah Chen,18/07/2024,24/09/2024,1,39300,NULL
+419,Kimberly,Moore,kimberly.moore@trendlinecommerce.com,TrendLine Commerce,Manufacturing,Enterprise (1000+),LinkedIn Ads,LI_Tech_Leaders,25,Qualified,Emily Rodriguez,27/02/2024,12/04/2024,10,143800,NULL
+420,Brandon,Morris,brandon.morris@healthsync.com,HealthSync,Technology,Large (201-1000),LinkedIn Ads,LI_Decision_Makers,66,Lost,Olivia Foster,02/02/2024,10/06/2024,39,88800,Budget
+421,Dorothy,Miller,dorothy.miller@betabridge.com,BetaBridge,Real Estate,Enterprise (1000+),Cold Email,ColdEmail_Series_A,61,Lost,James Morrison,28/07/2024,28/12/2024,64,39200,No Response
+422,Patrick,Clark,patrick.clark@vanguardedge.com,VanguardEdge,Technology,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,30,Lost,David Park,01/11/2024,01/02/2025,13,13300,Competitor
+423,Emily,Bennett,emily.bennett@quantumleapco.com,QuantumLeap Co,Retail,Medium (51-200),Referral,Referral_Partner_Program,79,Qualified,David Park,17/08/2024,12/09/2024,1,21500,NULL
+424,Brian,Martin,brian.martin@coresync.com,CoreSync,Real Estate,Large (201-1000),Cold Email,ColdEmail_Series_A,43,Lost,Marcus Webb,07/05/2024,19/07/2024,47,73100,No Response
+425,Stephanie,Campbell,stephanie.campbell@optiflow.com,OptiFlow,Technology,Large (201-1000),Webinar,Webinar_Cloud_Migration,61,Lost,David Park,08/12/2024,15/03/2025,36,42500,Competitor
+426,Ashley,Williams,ashley.williams@xcelrate.com,XcelRate,Finance,Small (1-50),Webinar,Webinar_Cloud_Migration,46,Contacted,Sarah Chen,11/12/2024,09/01/2025,4,9500,NULL
+427,Karen,Richardson,karen.richardson@healthsync.com,HealthSync,Retail,Medium (51-200),Webinar,Webinar_Security_Best,56,Negotiation,Olivia Foster,04/06/2024,14/08/2024,17,17800,NULL
+428,Nathan,Myers,nathan.myers@lunarbase.com,LunarBase,Technology,Large (201-1000),LinkedIn Ads,LI_Decision_Makers,56,Negotiation,Marcus Webb,06/05/2024,01/08/2024,30,97200,NULL
+429,Nathan,Turner,nathan.turner@unilearnpro.com,UniLearn Pro,Manufacturing,Large (201-1000),Webinar,Webinar_Cloud_Migration,81,Contacted,Sarah Chen,18/02/2024,22/05/2024,9,63500,NULL
+430,David,Brooks,david.brooks@questwealth.com,QuestWealth,Retail,Large (201-1000),Trade Show,TradeShow_SaaStr,35,Qualified,Sarah Chen,06/03/2024,08/05/2024,1,140700,NULL
+431,Samuel,Mitchell,samuel.mitchell@northstarconsulting.com,NorthStar Consulting,Technology,Medium (51-200),Webinar,Webinar_Cloud_Migration,61,New,Emily Rodriguez,12/08/2024,12/08/2024,20,24900,NULL
+432,Patrick,Russell,patrick.russell@agilemart.com,AgileMart,Finance,Medium (51-200),Organic Search,SEO_Case_Studies,25,Contacted,Olivia Foster,22/12/2024,22/01/2025,5,30400,NULL
+433,Jason,Bell,jason.bell@retailpulse.com,RetailPulse,Education,Large (201-1000),LinkedIn Ads,LI_Decision_Makers,28,Contacted,James Morrison,29/02/2024,15/05/2024,28,32600,NULL
+434,Nicholas,Murphy,nicholas.murphy@realvista.com,RealVista,Retail,Small (1-50),Google Ads,GoogQ4_Holiday_Push,32,Contacted,Marcus Webb,17/10/2024,26/02/2025,55,14900,NULL
+435,Daniel,Price,daniel.price@fluxpoint.com,FluxPoint,Technology,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,65,Contacted,Marcus Webb,05/03/2024,02/07/2024,57,38900,NULL
+436,James,Price,james.price@eaglevisiontech.com,EagleVision Tech,Manufacturing,Large (201-1000),LinkedIn Ads,LI_Industry_Vertical,58,Lost,Marcus Webb,12/12/2024,06/01/2025,24,97700,No Response
+437,Michelle,Cook,michelle.cook@peerscholar.com,PeerScholar,Education,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,56,Lost,Olivia Foster,10/08/2024,31/08/2024,19,7300,Budget
+438,Thomas,Evans,thomas.evans@fluxpoint.com,FluxPoint,Manufacturing,Enterprise (1000+),Cold Email,ColdEmail_Series_A,67,Proposal,Emily Rodriguez,21/09/2024,03/12/2024,17,51900,NULL
+439,Thomas,Martin,thomas.martin@apexsolutions.com,Apex Solutions,Retail,Medium (51-200),Referral,Referral_Employee,65,Proposal,Marcus Webb,17/09/2024,22/12/2024,14,13500,NULL
+440,Brandon,Taylor,brandon.taylor@peakperformanceco.com,PeakPerformance Co,Finance,Small (1-50),Cold Email,ColdEmail_Re_Engagement,45,New,Emily Rodriguez,23/09/2024,23/09/2024,42,8000,NULL
+441,Linda,Nguyen,linda.nguyen@northstarconsulting.com,NorthStar Consulting,Real Estate,Small (1-50),LinkedIn Ads,LI_Industry_Vertical,56,Contacted,Marcus Webb,28/08/2024,07/12/2024,20,12000,NULL
+442,Dennis,Murphy,dennis.murphy@fluxpoint.com,FluxPoint,Finance,Enterprise (1000+),Google Ads,GoogQ3_Retargeting,68,Proposal,Marcus Webb,18/11/2024,09/03/2025,72,356000,NULL
+443,Gary,Cook,gary.cook@readyskill.com,ReadySkill,Retail,Small (1-50),LinkedIn Ads,LI_Tech_Leaders,38,Contacted,Emily Rodriguez,05/03/2024,03/05/2024,20,3500,NULL
+444,Jessica,Barnes,jessica.barnes@retailpulse.com,RetailPulse,Real Estate,Small (1-50),Google Ads,GoogQ3_Retargeting,65,Qualified,Olivia Foster,25/01/2024,01/04/2024,3,7900,NULL
+445,Scott,Torres,scott.torres@urbannest.com,UrbanNest,Finance,Enterprise (1000+),Google Ads,GoogQ3_Retargeting,52,New,Marcus Webb,16/12/2024,16/12/2024,76,158500,NULL
+446,Stephanie,Hernandez,stephanie.hernandez@ionspark.com,IonSpark,Real Estate,Enterprise (1000+),Google Ads,GoogQ1_Brand_Awareness,43,Qualified,Marcus Webb,11/07/2024,05/10/2024,41,149600,NULL
+447,James,Torres,james.torres@meridianfinancial.com,Meridian Financial,Healthcare,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,42,Contacted,James Morrison,21/05/2024,19/07/2024,2,89600,NULL
+448,William,Campbell,william.campbell@alphaedge.com,AlphaEdge,Healthcare,Enterprise (1000+),Organic Search,SEO_Comparison_Articles,47,Qualified,Marcus Webb,28/07/2024,11/09/2024,27,215800,NULL
+449,Joseph,Sanchez,joseph.sanchez@zoneretail.com,ZoneRetail,Manufacturing,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,57,Contacted,James Morrison,13/02/2024,10/03/2024,21,10300,NULL
+450,Christopher,Martin,christopher.martin@terrafirminc.com,TerraFirm Inc,Retail,Enterprise (1000+),Webinar,Webinar_Cloud_Migration,65,Qualified,Marcus Webb,26/09/2024,24/01/2025,47,172200,NULL
+451,Christopher,Myers,christopher.myers@redrockindustries.com,RedRock Industries,Finance,Large (201-1000),LinkedIn Ads,LI_Decision_Makers,43,New,Olivia Foster,26/07/2024,26/07/2024,19,92200,NULL
+452,Robert,Robinson,robert.robinson@eaglevisiontech.com,EagleVision Tech,Technology,Large (201-1000),Webinar,Webinar_Security_Best,82,Negotiation,James Morrison,04/05/2024,23/07/2024,33,47000,NULL
+453,George,Parker,george.parker@kineticai.com,KineticAI,Technology,Medium (51-200),Google Ads,GoogQ3_Retargeting,89,Contacted,Emily Rodriguez,21/04/2024,01/07/2024,7,28100,NULL
+454,John,Mitchell,john.mitchell@elitefab.com,EliteFab,Technology,Enterprise (1000+),Content Download,Content_Whitepaper_AI,85,Qualified,Emily Rodriguez,17/10/2024,27/10/2024,10,119900,NULL
+455,Kimberly,Anderson,kimberly.anderson@quantumleapco.com,QuantumLeap Co,Retail,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,58,Contacted,Marcus Webb,28/06/2024,22/07/2024,21,7200,NULL
+456,Ronald,Richardson,ronald.richardson@kineticai.com,KineticAI,Technology,Enterprise (1000+),Organic Search,SEO_Blog_Inbound,25,Lost,Marcus Webb,09/12/2024,23/02/2025,47,248800,No Response
+457,Elizabeth,Thomas,elizabeth.thomas@yieldpointretail.com,YieldPoint Retail,Technology,Enterprise (1000+),Google Ads,GoogQ1_Brand_Awareness,74,Proposal,Marcus Webb,12/08/2024,14/09/2024,32,215500,NULL
+458,Linda,Campbell,linda.campbell@trendlinecommerce.com,TrendLine Commerce,Retail,Medium (51-200),Cold Email,ColdEmail_Vertical_Blast,51,Qualified,James Morrison,14/01/2024,26/03/2024,30,9500,NULL
+459,Jack,Scott,jack.scott@ironcladcorp.com,IronClad Corp,Real Estate,Large (201-1000),Google Ads,GoogQ4_Holiday_Push,67,Qualified,James Morrison,06/04/2024,10/07/2024,26,56300,NULL
+460,Benjamin,Lopez,benjamin.lopez@agilemart.com,AgileMart,Technology,Small (1-50),Content Download,Content_Ebook_Analytics,36,Lost,David Park,29/08/2024,16/11/2024,1,8600,Competitor
+461,Stephen,Wood,stephen.wood@hypernova.com,HyperNova,Finance,Small (1-50),Google Ads,GoogQ4_Holiday_Push,82,Negotiation,James Morrison,24/08/2024,29/11/2024,20,13900,NULL
+462,Alexander,Parker,alexander.parker@greencrossdigital.com,GreenCross Digital,Manufacturing,Large (201-1000),Organic Search,SEO_Comparison_Articles,67,Lost,Marcus Webb,22/10/2024,15/01/2025,1,96100,Competitor
+463,Samuel,Gonzalez,samuel.gonzalez@urbancart.com,UrbanCart,Real Estate,Large (201-1000),Webinar,Webinar_Security_Best,67,Qualified,David Park,17/02/2024,05/05/2024,5,46500,NULL
+464,James,Hall,james.hall@yieldmaxcorp.com,YieldMax Corp,Technology,Small (1-50),Referral,Referral_Employee,73,Contacted,Emily Rodriguez,24/11/2024,08/01/2025,3,9700,NULL
+465,Larry,Wright,larry.wright@vanguardedge.com,VanguardEdge,Healthcare,Small (1-50),LinkedIn Ads,LI_Industry_Vertical,52,Contacted,Emily Rodriguez,15/11/2024,01/01/2025,2,11700,NULL
+466,Dorothy,Torres,dorothy.torres@pinnaclefi.com,PinnacleFi,Retail,Large (201-1000),Webinar,Webinar_AI_Trends_2025,36,Contacted,Olivia Foster,13/01/2024,04/02/2024,22,56600,NULL
+467,Daniel,Richardson,daniel.richardson@optiflow.com,OptiFlow,Manufacturing,Small (1-50),Webinar,Webinar_Security_Best,67,Lost,David Park,27/10/2024,29/12/2024,19,10600,Bad Fit
+468,Patrick,Thomas,patrick.thomas@horizonx.com,HorizonX,Retail,Large (201-1000),Google Ads,GoogQ1_Brand_Awareness,66,Contacted,Marcus Webb,03/07/2024,07/08/2024,35,62300,NULL
+469,Robert,Clark,robert.clark@hypernova.com,HyperNova,Technology,Medium (51-200),Cold Email,ColdEmail_Series_A,75,Lost,Emily Rodriguez,19/01/2024,17/04/2024,16,26700,No Response
+470,Rebecca,Johnson,rebecca.johnson@readyskill.com,ReadySkill,Technology,Large (201-1000),Cold Email,ColdEmail_Enterprise_Push,65,Qualified,David Park,03/01/2024,06/02/2024,11,60300,NULL
+471,George,Phillips,george.phillips@lighthousesoftware.com,LightHouse Software,Retail,Enterprise (1000+),Organic Search,SEO_Case_Studies,71,Qualified,Marcus Webb,23/04/2024,16/09/2024,63,121500,NULL
+472,Laura,Roberts,laura.roberts@elitefab.com,EliteFab,Retail,Medium (51-200),Organic Search,SEO_Case_Studies,57,Qualified,Emily Rodriguez,06/03/2024,22/05/2024,4,18300,NULL
+473,Paul,Morgan,paul.morgan@novacrestcapital.com,NovaCrest Capital,Technology,Enterprise (1000+),Google Ads,GoogQ3_Retargeting,29,Lost,Marcus Webb,20/11/2024,28/02/2025,20,189700,Bad Fit
+474,Adam,Taylor,adam.taylor@intellimed.com,IntelliMed,Manufacturing,Enterprise (1000+),Webinar,Webinar_Data_Strategy,89,Negotiation,Olivia Foster,20/05/2024,04/09/2024,49,76700,NULL
+475,Jessica,Anderson,jessica.anderson@gammaworks.com,GammaWorks,Finance,Small (1-50),Referral,Referral_Employee,75,Qualified,Emily Rodriguez,07/03/2024,11/05/2024,1,12200,NULL
+476,Jeffrey,Thompson,jeffrey.thompson@readyskill.com,ReadySkill,Technology,Medium (51-200),Referral,Referral_Partner_Program,100,Won,Sarah Chen,01/12/2024,26/02/2025,9,24100,NULL
+477,Raymond,Garcia,raymond.garcia@digihealthcorp.com,DigiHealth Corp,Technology,Medium (51-200),Webinar,Webinar_Cloud_Migration,69,Negotiation,Emily Rodriguez,03/11/2024,28/11/2024,15,34800,NULL
+478,Patrick,Brown,patrick.brown@peerscholar.com,PeerScholar,Manufacturing,Large (201-1000),Trade Show,TradeShow_Dreamforce,61,New,Olivia Foster,14/09/2024,14/09/2024,3,129600,NULL
+479,Brian,Bell,brian.bell@grandscalemfg.com,GrandScale Mfg,Education,Medium (51-200),Google Ads,GoogQ2_Product_Launch,43,Qualified,David Park,27/03/2024,02/06/2024,20,22900,NULL
+480,Scott,Brooks,scott.brooks@trendlinecommerce.com,TrendLine Commerce,Finance,Medium (51-200),Content Download,Content_Template_Pack,53,Proposal,Olivia Foster,07/06/2024,20/06/2024,1,23800,NULL
+481,Richard,Butler,richard.butler@omnitechsolutions.com,OmniTech Solutions,Education,Medium (51-200),Trade Show,TradeShow_WebSummit,31,Contacted,Sarah Chen,16/02/2024,20/05/2024,6,31100,NULL
+482,Elizabeth,Hall,elizabeth.hall@agilemart.com,AgileMart,Finance,Medium (51-200),Google Ads,GoogQ4_Holiday_Push,59,Contacted,James Morrison,19/09/2024,06/11/2024,24,36700,NULL
+483,Jennifer,Ramirez,jennifer.ramirez@kryptosoft.com,KryptoSoft,Technology,Small (1-50),Webinar,Webinar_Security_Best,26,Contacted,Olivia Foster,29/07/2024,20/08/2024,9,6400,NULL
+484,Adam,Flores,adam.flores@retailpulse.com,RetailPulse,Finance,Enterprise (1000+),LinkedIn Ads,LI_CFO_Suite,41,Contacted,Marcus Webb,11/12/2024,22/02/2025,56,273700,NULL
+485,Benjamin,Hayes,benjamin.hayes@elitecaretech.com,EliteCare Tech,Technology,Small (1-50),Cold Email,ColdEmail_Vertical_Blast,47,Qualified,James Morrison,14/08/2024,13/10/2024,1,3100,NULL
+486,Steven,Ward,steven.ward@urbannest.com,UrbanNest,Finance,Enterprise (1000+),Google Ads,GoogQ2_Product_Launch,34,Contacted,David Park,22/06/2024,27/07/2024,1,196700,NULL
+487,Mark,Miller,mark.miller@readyskill.com,ReadySkill,Technology,Medium (51-200),Google Ads,GoogQ4_Holiday_Push,46,Proposal,James Morrison,23/01/2024,06/05/2024,24,21400,NULL
+488,David,Reed,david.reed@omnitechsolutions.com,OmniTech Solutions,Retail,Medium (51-200),Organic Search,SEO_Product_Pages,68,Contacted,James Morrison,27/08/2024,09/11/2024,14,20800,NULL
+489,Kimberly,Richardson,kimberly.richardson@skylinerealty.com,SkylineRealty,Manufacturing,Large (201-1000),Trade Show,TradeShow_WebSummit,42,Contacted,James Morrison,15/01/2024,02/02/2024,1,146000,NULL
+490,Betty,Edwards,betty.edwards@smartcampus.com,SmartCampus,Healthcare,Medium (51-200),Google Ads,GoogQ2_Product_Launch,53,Qualified,Sarah Chen,01/06/2024,20/08/2024,8,40500,NULL
+491,Timothy,Powell,timothy.powell@learnpathacademy.com,LearnPath Academy,Healthcare,Medium (51-200),Trade Show,TradeShow_SaaStr,49,Contacted,Sarah Chen,12/08/2024,15/09/2024,8,102600,NULL
+492,Susan,Watson,susan.watson@eaglevisiontech.com,EagleVision Tech,Education,Small (1-50),Cold Email,ColdEmail_Vertical_Blast,45,Contacted,Marcus Webb,28/07/2024,26/11/2024,37,8700,NULL
+493,Robert,Nguyen,robert.nguyen@sterlingfunds.com,SterlingFunds,Education,Large (201-1000),Google Ads,GoogQ1_Brand_Awareness,87,Qualified,Sarah Chen,19/04/2024,27/04/2024,7,37200,NULL
+494,Adam,Thomas,adam.thomas@metaforge.com,MetaForge,Finance,Medium (51-200),Google Ads,GoogQ2_Product_Launch,40,New,David Park,28/06/2024,28/06/2024,6,26500,NULL
+495,Jeffrey,Hayes,jeffrey.hayes@heavydutysystems.com,HeavyDuty Systems,Finance,Medium (51-200),Organic Search,SEO_Comparison_Articles,40,Lost,Emily Rodriguez,18/02/2024,04/04/2024,13,37500,Bad Fit
+496,Lisa,Miller,lisa.miller@radiantai.com,RadiantAI,Technology,Large (201-1000),Google Ads,GoogQ4_Holiday_Push,70,Contacted,Marcus Webb,10/08/2024,01/11/2024,29,103100,NULL
+497,Nathan,Baker,nathan.baker@buildrightcorp.com,BuildRight Corp,Retail,Small (1-50),Cold Email,ColdEmail_Series_A,28,Proposal,Olivia Foster,07/08/2024,21/11/2024,55,5800,NULL
+498,Gary,Jenkins,gary.jenkins@jointventurehealth.com,JointVenture Health,Education,Enterprise (1000+),LinkedIn Ads,LI_Decision_Makers,32,Proposal,David Park,12/07/2024,27/10/2024,29,61500,NULL
+499,Frank,Ramirez,frank.ramirez@zenithgroup.com,ZenithGroup,Healthcare,Medium (51-200),Webinar,Webinar_Data_Strategy,69,Won,Olivia Foster,18/05/2024,05/07/2024,3,22800,NULL
+500,Stephanie,Morgan,stephanie.morgan@duramaxmanufacturing.com,DuraMax Manufacturing,Finance,Large (201-1000),Referral,Referral_Customer_Advocacy,100,Contacted,Sarah Chen,17/07/2024,03/10/2024,2,98100,NULL
+501,Samuel,Henderson,samuel.henderson@optiflow.com,OptiFlow,Healthcare,Large (201-1000),Content Download,Content_Whitepaper_AI,66,New,Olivia Foster,14/05/2024,14/05/2024,29,79000,NULL
+502,Benjamin,Hill,benjamin.hill@skylinerealty.com,SkylineRealty,Retail,Medium (51-200),Webinar,Webinar_Cloud_Migration,52,Negotiation,Sarah Chen,14/05/2024,11/08/2024,8,19900,NULL
+503,Rebecca,Jackson,rebecca.jackson@coresync.com,CoreSync,Healthcare,Medium (51-200),Content Download,Content_Whitepaper_AI,31,Negotiation,Olivia Foster,28/06/2024,20/09/2024,1,23900,NULL
+504,Charles,Cox,charles.cox@grandscalemfg.com,GrandScale Mfg,Healthcare,Enterprise (1000+),LinkedIn Ads,LI_CFO_Suite,59,Lost,Marcus Webb,22/08/2024,26/12/2024,39,291900,Competitor
+505,Scott,Hall,scott.hall@horizonx.com,HorizonX,Finance,Medium (51-200),LinkedIn Ads,LI_Decision_Makers,67,Qualified,David Park,30/03/2024,02/06/2024,32,37500,NULL
+506,Justin,Sanchez,justin.sanchez@radiantai.com,RadiantAI,Technology,Medium (51-200),Organic Search,SEO_Blog_Inbound,56,Won,Sarah Chen,22/06/2024,04/09/2024,9,22700,NULL
+507,Lisa,Martin,lisa.martin@agilemart.com,AgileMart,Retail,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,88,Negotiation,Marcus Webb,03/08/2024,13/11/2024,31,24700,NULL
+508,Gregory,Price,gregory.price@healthsync.com,HealthSync,Technology,Enterprise (1000+),Cold Email,ColdEmail_Enterprise_Push,63,Lost,Marcus Webb,23/07/2024,30/10/2024,83,77800,Competitor
+509,William,Robinson,william.robinson@jetforge.com,JetForge,Education,Medium (51-200),Google Ads,GoogQ1_Brand_Awareness,82,Won,Emily Rodriguez,31/08/2024,05/10/2024,16,14800,NULL
+510,Gary,Powell,gary.powell@arcadiahealth.com,Arcadia Health,Finance,Enterprise (1000+),Organic Search,SEO_Case_Studies,50,Negotiation,Marcus Webb,27/01/2024,15/04/2024,43,217300,NULL
+511,Edward,Roberts,edward.roberts@alphaedge.com,AlphaEdge,Finance,Medium (51-200),Webinar,Webinar_Data_Strategy,77,Contacted,James Morrison,14/07/2024,20/10/2024,12,26600,NULL
+512,Ryan,Powell,ryan.powell@mindbridgeedu.com,MindBridge Edu,Manufacturing,Small (1-50),Referral,Referral_Customer_Advocacy,80,Won,Olivia Foster,30/05/2024,19/07/2024,1,7500,NULL
+513,Andrew,Hughes,andrew.hughes@lighthousesoftware.com,LightHouse Software,Education,Enterprise (1000+),Webinar,Webinar_Data_Strategy,16,Contacted,Marcus Webb,19/03/2024,20/07/2024,37,122300,NULL
+514,Barbara,Williams,barbara.williams@pinnaclefi.com,PinnacleFi,Technology,Small (1-50),Google Ads,GoogQ3_Retargeting,57,Qualified,Sarah Chen,08/05/2024,11/07/2024,7,10400,NULL
+515,Mark,Robinson,mark.robinson@castlestoneindustries.com,CastleStone Industries,Retail,Large (201-1000),Organic Search,SEO_Blog_Inbound,67,Proposal,Emily Rodriguez,20/04/2024,05/06/2024,30,49500,NULL
+516,Deborah,Rodriguez,deborah.rodriguez@firstresponseai.com,FirstResponse AI,Technology,Small (1-50),LinkedIn Ads,LI_CFO_Suite,41,Lost,David Park,28/01/2024,05/02/2024,4,9100,Competitor
+517,Dorothy,Ward,dorothy.ward@oakbridgeinvestments.com,OakBridge Investments,Finance,Medium (51-200),Google Ads,GoogQ3_Retargeting,65,Negotiation,Emily Rodriguez,24/09/2024,16/11/2024,10,39300,NULL
+518,Linda,Russell,linda.russell@venturepath.com,VenturePath,Technology,Large (201-1000),Google Ads,GoogQ1_Brand_Awareness,74,Won,David Park,27/11/2024,22/02/2025,42,81000,NULL
+519,Sarah,Morgan,sarah.morgan@urbannest.com,UrbanNest,Healthcare,Large (201-1000),Cold Email,ColdEmail_Vertical_Blast,70,Negotiation,Marcus Webb,24/10/2024,15/01/2025,51,91800,NULL
+520,John,Hernandez,john.hernandez@nextgenacademy.com,NextGen Academy,Healthcare,Small (1-50),LinkedIn Ads,LI_Tech_Leaders,44,Proposal,James Morrison,26/07/2024,20/10/2024,24,6800,NULL
+521,Adam,Morgan,adam.morgan@metaforge.com,MetaForge,Healthcare,Large (201-1000),Referral,Referral_Customer_Advocacy,59,Proposal,Emily Rodriguez,30/05/2024,19/08/2024,7,79000,NULL
+522,Larry,Hall,larry.hall@mountainviewlabs.com,MountainView Labs,Technology,Enterprise (1000+),Organic Search,SEO_Comparison_Articles,17,Qualified,Marcus Webb,16/02/2024,15/06/2024,40,189100,NULL
+523,Emily,Taylor,emily.taylor@terrafirminc.com,TerraFirm Inc,Real Estate,Medium (51-200),Referral,Referral_Partner_Program,82,New,Sarah Chen,26/03/2024,26/03/2024,6,10600,NULL
+524,Elizabeth,White,elizabeth.white@proptechsolutions.com,PropTech Solutions,Retail,Large (201-1000),LinkedIn Ads,LI_Tech_Leaders,58,Proposal,David Park,05/03/2024,18/06/2024,28,34500,NULL
+525,Linda,Russell,linda.russell@kraftline.com,KraftLine,Healthcare,Medium (51-200),Content Download,Content_ROI_Calculator,52,New,David Park,04/02/2024,04/02/2024,30,26000,NULL
+526,Cynthia,Scott,cynthia.scott@voltalabs.com,VoltaLabs,Real Estate,Medium (51-200),Google Ads,GoogQ2_Product_Launch,47,Lost,Emily Rodriguez,18/07/2024,27/09/2024,11,32400,Timing
+527,Larry,Lopez,larry.lopez@eaglevisiontech.com,EagleVision Tech,Technology,Medium (51-200),Referral,Referral_Partner_Program,41,Lost,Emily Rodriguez,15/06/2024,14/07/2024,6,7200,No Response
+528,Nathan,Scott,nathan.scott@jetforge.com,JetForge,Retail,Small (1-50),Webinar,Webinar_AI_Trends_2025,39,Proposal,Sarah Chen,02/09/2024,16/09/2024,1,6000,NULL
+529,Joseph,Griffin,joseph.griffin@brightpathinc.com,BrightPath Inc,Retail,Large (201-1000),Google Ads,GoogQ2_Product_Launch,30,Qualified,Marcus Webb,10/09/2024,08/11/2024,43,80500,NULL
+530,Emily,Clark,emily.clark@castlestoneindustries.com,CastleStone Industries,Education,Small (1-50),Content Download,Content_Ebook_Analytics,79,Contacted,James Morrison,12/08/2024,06/09/2024,17,2000,NULL
+531,Dorothy,Anderson,dorothy.anderson@jointventurehealth.com,JointVenture Health,Retail,Small (1-50),Google Ads,GoogQ2_Product_Launch,66,New,Marcus Webb,25/05/2024,25/05/2024,74,11100,NULL
+532,Timothy,Walker,timothy.walker@fusionworks.com,FusionWorks,Healthcare,Medium (51-200),Webinar,Webinar_Data_Strategy,28,Lost,Olivia Foster,22/05/2024,29/07/2024,41,26700,Bad Fit
+533,Gary,Flores,gary.flores@brightpathinc.com,BrightPath Inc,Real Estate,Small (1-50),Webinar,Webinar_AI_Trends_2025,68,Contacted,Marcus Webb,10/05/2024,27/05/2024,1,11400,NULL
+534,Michael,Williams,michael.williams@silverlinecorp.com,SilverLine Corp,Manufacturing,Medium (51-200),Cold Email,ColdEmail_Series_A,39,Lost,David Park,06/07/2024,20/09/2024,41,7000,No Response
+535,Jack,Russell,jack.russell@optiflow.com,OptiFlow,Retail,Medium (51-200),Referral,Referral_Customer_Advocacy,35,Qualified,Sarah Chen,14/11/2024,07/02/2025,1,21800,NULL
+536,Mark,Russell,mark.russell@truehomeai.com,TrueHome AI,Finance,Large (201-1000),Trade Show,TradeShow_CES_2025,58,New,James Morrison,28/07/2024,28/07/2024,9,219500,NULL
+537,Ashley,Kelly,ashley.kelly@echovault.com,EchoVault,Manufacturing,Small (1-50),Cold Email,ColdEmail_Vertical_Blast,5,Qualified,Emily Rodriguez,18/04/2024,22/07/2024,37,11400,NULL
+538,Mary,Davis,mary.davis@webforge.com,WebForge,Real Estate,Small (1-50),LinkedIn Ads,LI_CFO_Suite,39,Contacted,David Park,17/09/2024,23/11/2024,30,8700,NULL
+539,Patricia,Wilson,patricia.wilson@nexgendynamics.com,NexGen Dynamics,Technology,Enterprise (1000+),Organic Search,SEO_Case_Studies,85,Contacted,Sarah Chen,09/03/2024,12/03/2024,1,134400,NULL
+540,Cynthia,Hughes,cynthia.hughes@echovault.com,EchoVault,Retail,Small (1-50),Google Ads,GoogQ2_Product_Launch,52,Qualified,Olivia Foster,01/06/2024,15/07/2024,1,6200,NULL
+541,Dorothy,Barnes,dorothy.barnes@deltadrive.com,DeltaDrive,Manufacturing,Enterprise (1000+),Organic Search,SEO_Case_Studies,50,Qualified,Marcus Webb,29/03/2024,17/07/2024,70,121900,NULL
+542,David,Turner,david.turner@silverlinecorp.com,SilverLine Corp,Technology,Medium (51-200),Trade Show,TradeShow_SaaStr,67,Won,Emily Rodriguez,02/02/2024,15/03/2024,7,91900,NULL
+543,Ashley,Smith,ashley.smith@heavydutysystems.com,HeavyDuty Systems,Technology,Small (1-50),Cold Email,ColdEmail_Series_A,60,Lost,Emily Rodriguez,17/10/2024,05/01/2025,21,5000,No Response
+544,Donna,Jenkins,donna.jenkins@northstarconsulting.com,NorthStar Consulting,Finance,Medium (51-200),Organic Search,SEO_Comparison_Articles,23,Contacted,Emily Rodriguez,15/07/2024,17/10/2024,24,39100,NULL
+545,Scott,Young,scott.young@teachflow.com,TeachFlow,Real Estate,Medium (51-200),Webinar,Webinar_Data_Strategy,26,Contacted,Olivia Foster,16/12/2024,15/02/2025,47,21100,NULL
+546,Raymond,Bell,raymond.bell@jetstreamanalytics.com,JetStream Analytics,Finance,Large (201-1000),Google Ads,GoogQ1_Brand_Awareness,80,Lost,Sarah Chen,03/07/2024,07/09/2024,2,76800,Competitor
+547,James,Walker,james.walker@optiflow.com,OptiFlow,Healthcare,Medium (51-200),Organic Search,SEO_Product_Pages,48,Qualified,Emily Rodriguez,17/12/2024,11/03/2025,10,37400,NULL
+548,Charles,Johnson,charles.johnson@urbancart.com,UrbanCart,Healthcare,Large (201-1000),Trade Show,TradeShow_SaaStr,37,Contacted,Emily Rodriguez,19/07/2024,24/10/2024,8,156900,NULL
+549,Andrew,Flores,andrew.flores@eaglevisiontech.com,EagleVision Tech,Technology,Small (1-50),Google Ads,GoogQ4_Holiday_Push,67,Proposal,Sarah Chen,22/07/2024,13/10/2024,11,9700,NULL
+550,Karen,Watson,karen.watson@horizonx.com,HorizonX,Manufacturing,Medium (51-200),LinkedIn Ads,LI_Tech_Leaders,62,Contacted,David Park,17/12/2024,06/01/2025,17,15200,NULL
+551,Brian,King,brian.king@carepointsolutions.com,CarePoint Solutions,Manufacturing,Medium (51-200),Organic Search,SEO_Case_Studies,32,Lost,Emily Rodriguez,20/02/2024,08/04/2024,11,28100,Competitor
+552,Amanda,Bailey,amanda.bailey@jetstreamanalytics.com,JetStream Analytics,Retail,Small (1-50),Referral,Referral_Employee,58,Qualified,Emily Rodriguez,02/08/2024,02/10/2024,1,4700,NULL
+553,Brandon,James,brandon.james@urbannest.com,UrbanNest,Real Estate,Enterprise (1000+),LinkedIn Ads,LI_CFO_Suite,55,Qualified,Marcus Webb,13/11/2024,07/03/2025,50,184100,NULL
+554,Anthony,Morgan,anthony.morgan@carepointsolutions.com,CarePoint Solutions,Retail,Large (201-1000),Google Ads,GoogQ2_Product_Launch,61,New,Olivia Foster,27/10/2024,27/10/2024,15,51600,NULL
+555,Benjamin,Hill,benjamin.hill@jetstreamanalytics.com,JetStream Analytics,Healthcare,Large (201-1000),Webinar,Webinar_Cloud_Migration,68,Lost,Olivia Foster,13/04/2024,11/08/2024,45,105400,Budget
+556,Anthony,Scott,anthony.scott@realvista.com,RealVista,Finance,Enterprise (1000+),LinkedIn Ads,LI_Tech_Leaders,68,Lost,Marcus Webb,18/11/2024,15/01/2025,52,200500,Competitor
+557,John,Anderson,john.anderson@meridianfinancial.com,Meridian Financial,Finance,Large (201-1000),Referral,Referral_Customer_Advocacy,77,Negotiation,James Morrison,05/04/2024,05/07/2024,18,101200,NULL
+558,Rebecca,Hayes,rebecca.hayes@alphaedge.com,AlphaEdge,Technology,Small (1-50),Trade Show,TradeShow_CES_2025,39,Lost,Marcus Webb,13/03/2024,14/04/2024,23,42700,Competitor
+559,Jacob,Nguyen,jacob.nguyen@agilemart.com,AgileMart,Healthcare,Medium (51-200),Google Ads,GoogQ4_Holiday_Push,64,New,James Morrison,29/05/2024,29/05/2024,19,7200,NULL
+560,George,Bennett,george.bennett@voltalabs.com,VoltaLabs,Healthcare,Small (1-50),LinkedIn Ads,LI_CFO_Suite,50,New,David Park,23/05/2024,23/05/2024,1,6900,NULL
+561,Elizabeth,Collins,elizabeth.collins@mountainviewlabs.com,MountainView Labs,Education,Medium (51-200),Content Download,Content_ROI_Calculator,63,Negotiation,Sarah Chen,20/02/2024,29/02/2024,4,13400,NULL
+562,Christopher,Sanders,christopher.sanders@xpressretail.com,Xpress Retail,Finance,Small (1-50),Trade Show,TradeShow_SaaStr,67,Proposal,David Park,15/08/2024,05/11/2024,9,33700,NULL
+563,Melissa,Martinez,melissa.martinez@elitefab.com,EliteFab,Real Estate,Medium (51-200),Trade Show,TradeShow_Dreamforce,73,Qualified,Emily Rodriguez,05/03/2024,02/06/2024,1,44200,NULL
+564,Mark,Wright,mark.wright@nextgenacademy.com,NextGen Academy,Finance,Large (201-1000),Content Download,Content_Ebook_Analytics,77,Lost,David Park,05/11/2024,27/12/2024,1,23200,Competitor
+565,Charles,Hughes,charles.hughes@ionspark.com,IonSpark,Technology,Small (1-50),Google Ads,GoogQ4_Holiday_Push,51,Negotiation,James Morrison,22/09/2024,15/10/2024,16,13000,NULL
+566,Michael,Edwards,michael.edwards@ironcladcorp.com,IronClad Corp,Healthcare,Large (201-1000),Content Download,Content_Whitepaper_AI,64,Proposal,David Park,08/11/2024,07/01/2025,29,83400,NULL
+567,Melissa,Wood,melissa.wood@oakbridgeinvestments.com,OakBridge Investments,Finance,Medium (51-200),Webinar,Webinar_Data_Strategy,76,Contacted,David Park,04/10/2024,14/11/2024,19,46300,NULL
+568,Karen,Scott,karen.scott@oakbridgeinvestments.com,OakBridge Investments,Technology,Small (1-50),Cold Email,ColdEmail_Enterprise_Push,46,Proposal,Emily Rodriguez,05/05/2024,17/06/2024,13,5000,NULL
+569,Sandra,Flores,sandra.flores@shopsmartai.com,ShopSmart AI,Finance,Medium (51-200),Google Ads,GoogQ4_Holiday_Push,43,Qualified,David Park,28/09/2024,10/01/2025,32,34000,NULL
+570,Ashley,Watson,ashley.watson@digihealthcorp.com,DigiHealth Corp,Technology,Large (201-1000),Google Ads,GoogQ4_Holiday_Push,80,Lost,James Morrison,23/11/2024,16/12/2024,1,52300,Bad Fit
+571,Raymond,Murphy,raymond.murphy@voltalabs.com,VoltaLabs,Retail,Small (1-50),Google Ads,GoogQ2_Product_Launch,47,Contacted,James Morrison,21/06/2024,22/07/2024,14,8600,NULL
+572,Sarah,Allen,sarah.allen@vanguardedge.com,VanguardEdge,Healthcare,Enterprise (1000+),Google Ads,GoogQ4_Holiday_Push,70,Proposal,Marcus Webb,14/02/2024,03/05/2024,43,333000,NULL
+573,Jeffrey,Morgan,jeffrey.morgan@echovault.com,EchoVault,Retail,Enterprise (1000+),Content Download,Content_Ebook_Analytics,35,Qualified,James Morrison,10/10/2024,11/02/2025,36,67600,NULL
+574,Nancy,Alexander,nancy.alexander@intellimed.com,IntelliMed,Healthcare,Large (201-1000),Referral,Referral_Employee,77,Contacted,Emily Rodriguez,19/01/2024,12/02/2024,3,57300,NULL
+575,Linda,Baker,linda.baker@jadelogic.com,JadeLogic,Real Estate,Large (201-1000),Organic Search,SEO_Blog_Inbound,75,Qualified,James Morrison,12/05/2024,07/07/2024,5,45600,NULL
+576,Christopher,Peterson,christopher.peterson@deltadrive.com,DeltaDrive,Retail,Medium (51-200),LinkedIn Ads,LI_Decision_Makers,58,Lost,David Park,30/05/2024,01/09/2024,29,21900,No Response
+577,Jack,Smith,jack.smith@terrafirminc.com,TerraFirm Inc,Technology,Enterprise (1000+),Google Ads,GoogQ1_Brand_Awareness,92,Lost,Sarah Chen,26/03/2024,24/05/2024,7,102800,Timing
+578,Jonathan,Bryant,jonathan.bryant@unitystack.com,UnityStack,Healthcare,Small (1-50),Webinar,Webinar_Cloud_Migration,46,Lost,David Park,02/04/2024,01/05/2024,5,11500,Bad Fit
+579,Alexander,Edwards,alexander.edwards@proptechsolutions.com,PropTech Solutions,Retail,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,33,Qualified,David Park,15/10/2024,30/12/2024,32,9000,NULL
+580,Mary,Brown,mary.brown@urbannest.com,UrbanNest,Retail,Medium (51-200),Organic Search,SEO_Comparison_Articles,36,Won,Emily Rodriguez,02/03/2024,15/04/2024,23,23900,NULL
+581,Nancy,Morris,nancy.morris@zoneretail.com,ZoneRetail,Manufacturing,Small (1-50),Google Ads,GoogQ2_Product_Launch,24,Qualified,Emily Rodriguez,23/11/2024,06/02/2025,13,14000,NULL
+582,Jason,Martinez,jason.martinez@prismtech.com,PrismTech,Real Estate,Small (1-50),Webinar,Webinar_Cloud_Migration,9,Qualified,Marcus Webb,04/07/2024,17/08/2024,33,6600,NULL
+583,Andrew,Martinez,andrew.martinez@radiantai.com,RadiantAI,Healthcare,Small (1-50),Content Download,Content_ROI_Calculator,56,Qualified,Marcus Webb,08/08/2024,07/11/2024,46,19400,NULL
+584,Betty,Brooks,betty.brooks@questwealth.com,QuestWealth,Finance,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,29,Qualified,James Morrison,17/03/2024,07/06/2024,28,18400,NULL
+585,Melissa,Clark,melissa.clark@voltalabs.com,VoltaLabs,Healthcare,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,56,Contacted,Olivia Foster,18/08/2024,26/09/2024,39,33500,NULL
+586,Stephen,Sanchez,stephen.sanchez@hypernova.com,HyperNova,Healthcare,Medium (51-200),LinkedIn Ads,LI_CFO_Suite,25,Lost,Sarah Chen,13/09/2024,08/12/2024,9,36800,Bad Fit
+587,Thomas,Rodriguez,thomas.rodriguez@dataspherecorp.com,DataSphere Corp,Retail,Small (1-50),Content Download,Content_Ebook_Analytics,48,Qualified,Emily Rodriguez,16/06/2024,01/09/2024,11,10200,NULL
+588,William,Flores,william.flores@hypernova.com,HyperNova,Technology,Enterprise (1000+),LinkedIn Ads,LI_Tech_Leaders,76,Qualified,Marcus Webb,05/05/2024,06/09/2024,55,207300,NULL
+589,Dennis,Clark,dennis.clark@summitone.com,SummitOne,Education,Enterprise (1000+),LinkedIn Ads,LI_Tech_Leaders,71,New,Marcus Webb,20/01/2024,20/01/2024,39,137500,NULL
+590,Patricia,Harris,patricia.harris@kraftline.com,KraftLine,Finance,Large (201-1000),Cold Email,ColdEmail_Enterprise_Push,19,Lost,David Park,23/01/2024,29/03/2024,1,80800,No Response
+591,Sharon,Price,sharon.price@deltadrive.com,DeltaDrive,Technology,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,70,Contacted,Olivia Foster,28/10/2024,02/11/2024,1,15300,NULL
+592,Mark,Wright,mark.wright@eaglevisiontech.com,EagleVision Tech,Technology,Enterprise (1000+),Webinar,Webinar_Cloud_Migration,50,Qualified,Marcus Webb,01/02/2024,12/04/2024,68,202800,NULL
+593,Matthew,Henderson,matthew.henderson@webforge.com,WebForge,Retail,Enterprise (1000+),Webinar,Webinar_Data_Strategy,36,Proposal,Marcus Webb,27/11/2024,16/01/2025,28,126900,NULL
+594,Benjamin,Wright,benjamin.wright@urbancart.com,UrbanCart,Retail,Medium (51-200),Cold Email,ColdEmail_Re_Engagement,24,Negotiation,Olivia Foster,28/12/2024,14/03/2025,45,9000,NULL
+595,Raymond,Cox,raymond.cox@hypernova.com,HyperNova,Retail,Small (1-50),LinkedIn Ads,LI_Decision_Makers,13,Lost,Marcus Webb,11/06/2024,24/09/2024,45,8400,Budget
+596,Jessica,Collins,jessica.collins@healthsync.com,HealthSync,Healthcare,Enterprise (1000+),Webinar,Webinar_Security_Best,38,Proposal,Olivia Foster,09/12/2024,13/03/2025,38,216300,NULL
+597,Patrick,Carter,patrick.carter@redrockindustries.com,RedRock Industries,Healthcare,Small (1-50),Google Ads,GoogQ1_Brand_Awareness,62,Contacted,Emily Rodriguez,05/03/2024,17/04/2024,3,12300,NULL
+598,Michelle,Patterson,michelle.patterson@heavydutysystems.com,HeavyDuty Systems,Retail,Medium (51-200),LinkedIn Ads,LI_Industry_Vertical,37,Negotiation,Sarah Chen,05/05/2024,24/05/2024,8,17500,NULL
+599,Sandra,Richardson,sandra.richardson@lunarbase.com,LunarBase,Finance,Medium (51-200),Google Ads,GoogQ1_Brand_Awareness,55,Lost,Olivia Foster,03/04/2024,08/06/2024,24,17300,Budget
+600,Kevin,Bailey,kevin.bailey@fluxpoint.com,FluxPoint,Healthcare,Medium (51-200),Cold Email,ColdEmail_Enterprise_Push,39,Lost,Sarah Chen,28/10/2024,31/12/2024,17,15600,No Response
