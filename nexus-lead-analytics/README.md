@@ -15,6 +15,13 @@ The analysis covers:
 - **KPI framework** — business metrics for ongoing performance monitoring
 - **Interactive dashboard** — Streamlit-based analytics dashboard for dynamic exploration
 
+# Nexus Lead Analytics
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-analysis-project-python---lead-pipeline-analysis-zek5yg2u.streamlit.app/)
+
+### Live Dashboard
+🚀 Explore the interactive dashboard here:  
+https://data-analysis-project-python---lead-pipeline-analysis-zek5yg2u.streamlit.app/
 ---
 
 ## Key Business Questions
