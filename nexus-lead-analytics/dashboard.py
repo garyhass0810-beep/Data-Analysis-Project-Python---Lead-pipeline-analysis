@@ -104,6 +104,14 @@ filtered_df = df[
     (df["assigned_rep"].isin(selected_reps))
 ]
 
+# =========================================================
+# EMPTY FILTER HANDLING
+# =========================================================
+
+if filtered_df.empty:
+    st.warning("No data matches the selected filters. Please adjust the filters.")
+    st.stop()
+
 
 # =========================================================
 # KPI CALCULATIONS
@@ -272,30 +280,29 @@ fig_month = px.line(
     }
 )
 
-
 # =========================================================
 # VISUALIZATION 4 — LOST DEAL REASONS
 # =========================================================
 
-# Filter lost deals only
 lost_df = filtered_df[filtered_df["status"] == "Lost"]
 
-# Count lost reasons
-lost_reason_counts = (
-    lost_df["lost_reason"]
-    .value_counts()
-    .reset_index()
-)
+if lost_df.empty:
+    fig_lost = None
+else:
+    lost_reason_counts = (
+        lost_df["lost_reason"]
+        .value_counts()
+        .reset_index()
+    )
 
-lost_reason_counts.columns = ["lost_reason", "count"]
+    lost_reason_counts.columns = ["lost_reason", "count"]
 
-# Create pie chart
-fig_lost = px.pie(
-    lost_reason_counts,
-    names="lost_reason",
-    values="count",
-    title="Lost Deal Reasons"
-)
+    fig_lost = px.pie(
+        lost_reason_counts,
+        names="lost_reason",
+        values="count",
+        title="Lost Deal Reasons"
+    )
 
 
 # =========================================================
@@ -394,7 +401,10 @@ with left_col:
     st.plotly_chart(fig_month, use_container_width=True)
 
 with right_col:
-    st.plotly_chart(fig_lost, use_container_width=True)
+    if fig_lost is not None:
+        st.plotly_chart(fig_lost, use_container_width=True)
+    else:
+        st.info("No lost deals for the selected filters.")
 
 
 st.markdown("---")
