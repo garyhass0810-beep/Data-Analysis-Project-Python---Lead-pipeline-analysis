@@ -6,6 +6,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
 
 # =========================================================
@@ -34,7 +35,8 @@ st.markdown(
 # =========================================================
 
 # Load CRM lead dataset
-df = pd.read_csv("leads_data.csv")
+DATA_PATH = Path(__file__).parent / "leads_data.csv"
+df = pd.read_csv(DATA_PATH)
 
 # Convert date columns from text into datetime format
 # dayfirst=True is used because the source dates are DD/MM/YYYY
